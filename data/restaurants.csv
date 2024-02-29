@@ -1,0 +1,1001 @@
+restaurant_id,restaurant_name,food_type,price_tier,neighborhood,opening_time,closing_time,ratings,suitable_for_kids
+1,Hamill Inc,American,Expensive,Astoria,7:59,23:48,1.2,FALSE
+2,Lemke and Sons,Middle Eastern,Cheap,Greenwich Village,7:13,22:58,4.7,FALSE
+3,Funk-Kozey,Thai,Expensive,Greenwich Village,6:36,20:32,2,TRUE
+4,Ledner-Stracke,American,Expensive,Greenwich Village,8:45,23:19,2,TRUE
+5,Stroman-Fisher,Mexican,Expensive,Hell's Kitchen,9:04,22:50,4.1,FALSE
+6,Prosacco-Jaskolski,Thai,Medium,Park Slope,7:42,22:27,2.5,FALSE
+7,Williamson-Miller,Indian,Cheap,Williamsburg,8:16,22:19,3,TRUE
+8,Moen-Volkman,Mexican,Cheap,Long Island City,5:58,19:38,1.8,TRUE
+9,Murazik-Stoltenberg,Thai,Expensive,Williamsburg,6:16,19:31,1.7,TRUE
+10,Moore Group,Thai,Expensive,Williamsburg,9:10,23:40,3.5,FALSE
+11,"Orn, Shields and Cormier",Polish,Cheap,Greenwich Village,8:06,21:45,3.1,FALSE
+12,"Swift, Kuphal and Hermann",American,Cheap,Upper East Side,8:15,23:00,2.4,FALSE
+13,"Hane, Aufderhar and Williamson",Mexican,Expensive,Bushwick,5:21,20:09,4,FALSE
+14,Welch-Barrows,Italian,Medium,Hell's Kitchen,8:12,19:45,2.8,FALSE
+15,Thiel-Bergnaum,American,Medium,Upper East Side,9:39,20:10,3,TRUE
+16,Mertz and Sons,Italian,Medium,Greenwich Village,5:23,20:25,4.5,FALSE
+17,"Keebler, Goyette and Kuvalis",American,Medium,Astoria,7:43,23:28,2.1,TRUE
+18,Corwin Group,Thai,Medium,Harlem,5:34,20:26,3,TRUE
+19,Bogisich Inc,Indian,Cheap,Upper East Side,9:06,19:05,2,TRUE
+20,"Erdman, Schumm and Miller",Indian,Expensive,Greenwich Village,6:53,21:11,3.6,TRUE
+21,Paucek-Wolff,Polish,Expensive,Long Island City,8:47,23:40,1.1,TRUE
+22,Schiller and Sons,Middle Eastern,Expensive,Astoria,8:00,19:55,3.9,FALSE
+23,Balistreri-Deckow,Japanese,Expensive,Upper East Side,8:44,21:07,1.2,TRUE
+24,"Friesen, Koelpin and Morar",Middle Eastern,Expensive,Harlem,7:35,20:45,4,FALSE
+25,"Larkin, Gleason and Romaguera",Polish,Expensive,Hell's Kitchen,6:35,20:24,4.7,TRUE
+26,Dibbert-Bode,Chinese,Cheap,Long Island City,8:47,22:00,1.2,FALSE
+27,Okuneva LLC,American,Cheap,Bed-Stuy,5:34,21:39,4.7,TRUE
+28,Runolfsdottir-Weissnat,Polish,Expensive,Williamsburg,9:46,22:50,4.6,FALSE
+29,"Bogan, Jerde and Wintheiser",Japanese,Medium,Harlem,9:59,23:49,3.1,FALSE
+30,Toy Group,Chinese,Expensive,Greenwich Village,6:55,21:24,4.1,TRUE
+31,McLaughlin LLC,Mexican,Cheap,Astoria,7:39,19:47,4.2,TRUE
+32,Medhurst-Schimmel,Chinese,Cheap,Astoria,6:10,19:08,2.1,TRUE
+33,"Green, Jast and Langworth",American,Medium,Williamsburg,8:43,22:55,2.5,FALSE
+34,"Stehr, Kertzmann and Legros",Italian,Cheap,Bushwick,7:41,21:22,1.3,TRUE
+35,"Welch, Nikolaus and Upton",Chinese,Medium,Hell's Kitchen,9:59,20:51,2.6,FALSE
+36,Lemke-Leuschke,Chinese,Cheap,Astoria,8:09,19:06,3.5,FALSE
+37,Cartwright LLC,Thai,Cheap,Williamsburg,5:35,22:51,1.6,FALSE
+38,"Labadie, Vandervort and Kuvalis",Italian,Medium,Park Slope,5:52,22:03,1.5,FALSE
+39,Becker Group,Indian,Medium,Upper East Side,6:55,21:35,3.8,FALSE
+40,"Harber, Bashirian and Crona",Italian,Cheap,Williamsburg,8:37,20:47,1.7,FALSE
+41,"Hodkiewicz, Nolan and Wolff",Japanese,Medium,Greenwich Village,5:10,20:21,3.5,FALSE
+42,Oberbrunner-Hoppe,Italian,Cheap,Williamsburg,9:13,23:40,2.7,TRUE
+43,"Marks, Kiehn and Jaskolski",Japanese,Medium,Harlem,6:48,23:58,1.9,TRUE
+44,Rosenbaum-Denesik,Thai,Cheap,Bed-Stuy,9:05,20:18,2.6,FALSE
+45,"Parker, Ortiz and Huel",Polish,Medium,Long Island City,5:56,20:41,3.2,FALSE
+46,"Johnston, Larson and Feeney",Thai,Expensive,Upper East Side,6:59,21:05,1.7,TRUE
+47,Weissnat Group,Japanese,Expensive,Long Island City,7:11,20:30,3.3,FALSE
+48,"Schroeder, Langosh and Dickinson",Italian,Expensive,Bed-Stuy,5:46,21:22,4.6,FALSE
+49,"Pfeffer, Harber and McLaughlin",Chinese,Expensive,Bushwick,7:27,20:55,4.4,FALSE
+50,Ernser Group,Italian,Cheap,Bushwick,5:04,21:51,2.6,FALSE
+51,Barton-Olson,Indian,Cheap,Bushwick,7:44,19:32,4,TRUE
+52,Dibbert-Kirlin,Italian,Medium,Bushwick,7:56,19:25,4.7,TRUE
+53,"Treutel, Howe and Muller",Italian,Medium,Long Island City,5:18,23:13,4.7,FALSE
+54,Osinski-Mertz,Indian,Cheap,Harlem,7:09,22:31,2,FALSE
+55,Haley Group,Thai,Medium,Harlem,9:29,20:18,1.9,FALSE
+56,"Kuhn, O'Hara and Strosin",Italian,Medium,Williamsburg,5:08,22:23,2.8,TRUE
+57,Corkery-Heidenreich,Middle Eastern,Expensive,Williamsburg,9:18,20:59,1.9,FALSE
+58,"Auer, Mohr and Wisoky",Middle Eastern,Cheap,Astoria,9:15,20:04,3.2,TRUE
+59,"Keebler, Jerde and Kuhn",Chinese,Cheap,Greenwich Village,9:36,20:41,4.3,FALSE
+60,Carter-Braun,Polish,Medium,Bushwick,8:59,20:00,2.7,FALSE
+61,Durgan-Pouros,American,Cheap,Astoria,6:05,22:50,3.2,FALSE
+62,Gutkowski LLC,Polish,Medium,Astoria,6:34,20:11,3.6,FALSE
+63,Rogahn LLC,Indian,Expensive,Greenwich Village,6:58,20:53,1.3,FALSE
+64,"Kub, Medhurst and Stokes",Italian,Cheap,Long Island City,6:45,19:17,1.4,TRUE
+65,Beer-Steuber,Indian,Medium,Long Island City,6:11,21:48,4.3,TRUE
+66,"Schowalter, Bechtelar and Kohler",Mexican,Cheap,Park Slope,6:51,22:00,2,TRUE
+67,"Christiansen, Nolan and Yost",American,Medium,Long Island City,8:17,21:58,1.4,FALSE
+68,Homenick-Hintz,Polish,Medium,Park Slope,5:50,21:19,1.6,TRUE
+69,Nienow LLC,Japanese,Expensive,Park Slope,6:41,20:29,2.9,FALSE
+70,Harber-Tremblay,Chinese,Cheap,Harlem,6:30,19:24,4.2,FALSE
+71,Adams Group,Middle Eastern,Expensive,Williamsburg,9:52,23:00,4.4,FALSE
+72,Kreiger-Weber,Thai,Medium,Upper East Side,6:46,23:09,1.3,FALSE
+73,"Ruecker, Schamberger and Anderson",Thai,Cheap,Park Slope,8:46,22:26,1.8,FALSE
+74,"Keeling, Bruen and Konopelski",Middle Eastern,Expensive,Bed-Stuy,6:13,22:05,1.1,FALSE
+75,Mohr-Cole,Italian,Medium,Park Slope,7:22,23:05,2.9,TRUE
+76,"Lebsack, Bernhard and Baumbach",Polish,Expensive,Hell's Kitchen,9:36,21:29,3.5,TRUE
+77,Herzog LLC,American,Expensive,Harlem,9:49,20:07,2.4,FALSE
+78,Hauck-Jaskolski,Chinese,Cheap,Upper East Side,5:07,22:09,4.4,TRUE
+79,"Prosacco, Treutel and Mills",Italian,Medium,Astoria,9:41,23:21,2.8,TRUE
+80,Zboncak-Christiansen,Italian,Medium,Harlem,8:45,19:31,4.8,TRUE
+81,"Stark, Greenholt and Hackett",Thai,Cheap,Hell's Kitchen,5:35,23:19,1.3,FALSE
+82,Bogan and Sons,Thai,Medium,Greenwich Village,9:01,22:50,2.4,FALSE
+83,Towne Group,Indian,Expensive,Bushwick,8:44,23:42,4.2,FALSE
+84,Windler Group,Middle Eastern,Cheap,Upper East Side,7:53,23:31,2.1,FALSE
+85,"Lowe, Veum and Schamberger",Indian,Medium,Greenwich Village,9:10,19:13,4.8,TRUE
+86,Stamm-Ferry,American,Medium,Hell's Kitchen,6:27,22:08,3.9,FALSE
+87,Kemmer and Sons,Polish,Medium,Bed-Stuy,8:47,23:22,4.4,TRUE
+88,Dickinson-Murray,Middle Eastern,Cheap,Park Slope,5:53,20:33,3.7,TRUE
+89,Muller-Grimes,American,Expensive,Astoria,5:15,19:49,1.8,TRUE
+90,Schamberger LLC,Middle Eastern,Cheap,Long Island City,5:53,22:45,3.4,TRUE
+91,"Stracke, Hills and Hammes",Polish,Expensive,Greenwich Village,8:45,22:41,1.8,FALSE
+92,Fadel Group,Middle Eastern,Medium,Harlem,9:35,22:32,1.6,FALSE
+93,"Bartell, Reinger and Lakin",Thai,Medium,Park Slope,8:36,19:23,4.9,TRUE
+94,Bartell LLC,Mexican,Cheap,Williamsburg,7:16,19:10,4.1,FALSE
+95,Zulauf LLC,Middle Eastern,Cheap,Long Island City,8:10,22:03,1,TRUE
+96,Hodkiewicz-Towne,Japanese,Medium,Astoria,6:13,23:04,4.2,TRUE
+97,Franecki-Swaniawski,Indian,Cheap,Greenwich Village,6:39,19:15,3.5,TRUE
+98,Hermann-Bahringer,Mexican,Medium,Bushwick,5:34,23:09,2.4,TRUE
+99,Fisher-Towne,Mexican,Medium,Greenwich Village,5:40,23:04,4.1,FALSE
+100,"Rutherford, Brakus and O'Reilly",Polish,Cheap,Astoria,8:34,23:41,3,FALSE
+101,Lang LLC,Italian,Expensive,Long Island City,5:25,20:25,4.9,FALSE
+102,Block-Hammes,American,Cheap,Hell's Kitchen,8:18,23:48,5,FALSE
+103,Funk and Sons,Polish,Expensive,Williamsburg,9:03,19:08,2.7,FALSE
+104,Nienow-Hahn,Indian,Cheap,Park Slope,9:13,20:28,3.3,FALSE
+105,Emard and Sons,Indian,Expensive,Bed-Stuy,8:51,23:20,3.8,TRUE
+106,"Kertzmann, Collins and Steuber",Chinese,Expensive,Park Slope,6:05,23:23,2.2,FALSE
+107,Hauck Inc,Middle Eastern,Expensive,Hell's Kitchen,7:20,21:39,2.3,FALSE
+108,McGlynn-Mayer,Chinese,Expensive,Williamsburg,8:10,23:15,3.5,FALSE
+109,McCullough-Stamm,Japanese,Medium,Bed-Stuy,6:53,19:13,5,FALSE
+110,Gutkowski Inc,Polish,Expensive,Park Slope,6:59,20:56,3,FALSE
+111,Nikolaus and Sons,Indian,Medium,Upper East Side,7:16,22:10,3,TRUE
+112,Grady-Roob,Polish,Expensive,Long Island City,8:04,23:36,4.8,TRUE
+113,"Ernser, Purdy and Cruickshank",American,Medium,Williamsburg,5:17,21:50,1.6,TRUE
+114,"O'Connell, Feeney and Wolf",American,Expensive,Park Slope,6:55,21:31,2.3,TRUE
+115,Jakubowski-Koss,Middle Eastern,Medium,Park Slope,5:04,21:37,4.8,FALSE
+116,"Kris, Kuhlman and Feeney",Japanese,Expensive,Bed-Stuy,7:16,22:51,1.1,TRUE
+117,Kertzmann-Davis,Polish,Medium,Harlem,6:12,22:06,1.7,TRUE
+118,Lebsack LLC,Indian,Expensive,Bed-Stuy,6:40,23:50,3.8,FALSE
+119,Yost Inc,Middle Eastern,Cheap,Harlem,8:44,19:20,4.1,FALSE
+120,"Strosin, Purdy and Weissnat",Chinese,Expensive,Upper East Side,9:49,22:31,2.3,TRUE
+121,Skiles-Ferry,Thai,Expensive,Upper East Side,9:56,23:23,3.2,FALSE
+122,Mayert-Schaden,Mexican,Cheap,Upper East Side,6:56,23:04,1.2,TRUE
+123,"Brekke, Hammes and Kunze",Polish,Cheap,Harlem,9:55,21:41,3.5,TRUE
+124,Kshlerin Inc,Indian,Expensive,Upper East Side,5:15,23:46,4,TRUE
+125,"Hoppe, Price and Rogahn",Middle Eastern,Cheap,Hell's Kitchen,6:14,19:11,1.5,TRUE
+126,Jaskolski LLC,Japanese,Cheap,Astoria,6:34,23:57,2.2,TRUE
+127,Raynor-Lindgren,Chinese,Cheap,Park Slope,6:08,22:32,3.4,FALSE
+128,Bayer LLC,Middle Eastern,Expensive,Bed-Stuy,5:10,22:11,4.2,FALSE
+129,"Cassin, Murphy and Wolff",Japanese,Medium,Greenwich Village,7:27,19:20,4.7,FALSE
+130,Ferry LLC,American,Medium,Harlem,6:38,21:52,1.9,TRUE
+131,"Breitenberg, Gislason and Reinger",Indian,Cheap,Astoria,9:00,20:05,2.5,TRUE
+132,Vandervort-Bauch,Chinese,Medium,Bed-Stuy,7:38,23:06,2.3,TRUE
+133,"Fadel, Reynolds and Green",American,Cheap,Greenwich Village,7:24,19:22,1.4,TRUE
+134,Larkin and Sons,Middle Eastern,Expensive,Hell's Kitchen,8:06,22:54,2.9,TRUE
+135,"Nienow, Paucek and Feil",Polish,Cheap,Bed-Stuy,7:08,20:39,1.7,FALSE
+136,Cruickshank Inc,Chinese,Expensive,Upper East Side,9:03,20:55,1.6,TRUE
+137,Carroll Group,Chinese,Cheap,Bushwick,8:33,20:41,1.2,FALSE
+138,Olson LLC,Thai,Cheap,Hell's Kitchen,5:43,19:47,2.3,TRUE
+139,Wuckert and Sons,Polish,Cheap,Park Slope,6:22,19:37,5,TRUE
+140,Okuneva LLC,Mexican,Cheap,Bed-Stuy,7:44,22:29,4,TRUE
+141,Hettinger and Sons,Italian,Cheap,Bed-Stuy,5:11,23:42,2.9,TRUE
+142,Hoeger-Boyle,American,Cheap,Upper East Side,6:45,20:06,4.3,TRUE
+143,"Pagac, Parisian and Tremblay",Mexican,Cheap,Harlem,8:11,20:45,3.7,TRUE
+144,Mraz LLC,Mexican,Cheap,Upper East Side,8:39,22:02,3.2,FALSE
+145,Zemlak and Sons,Thai,Medium,Park Slope,5:43,20:45,1.3,TRUE
+146,Sauer-Dickens,Polish,Cheap,Hell's Kitchen,7:09,20:12,1,FALSE
+147,Marks Inc,Japanese,Medium,Astoria,9:44,20:48,3.7,TRUE
+148,"Rowe, Crooks and Veum",Mexican,Cheap,Astoria,6:50,19:41,1.2,TRUE
+149,Collier Group,Thai,Cheap,Greenwich Village,6:10,20:00,4.1,TRUE
+150,Hettinger LLC,Thai,Cheap,Greenwich Village,5:04,23:38,1.9,FALSE
+151,"Roob, Ziemann and Mann",Japanese,Cheap,Harlem,8:57,19:09,3.5,TRUE
+152,Cremin-Beer,American,Medium,Williamsburg,8:04,20:46,4.3,TRUE
+153,Kuhic-Hyatt,Italian,Medium,Long Island City,8:04,19:14,1.7,TRUE
+154,Wiegand Inc,Polish,Medium,Long Island City,8:40,22:59,3.8,FALSE
+155,Will-Mills,Mexican,Medium,Park Slope,6:20,20:45,3.9,FALSE
+156,"Rippin, Balistreri and Dickens",Italian,Medium,Long Island City,9:10,21:59,3.3,TRUE
+157,Erdman-Boyle,Mexican,Medium,Park Slope,8:21,23:33,2,TRUE
+158,Marks-Stracke,Italian,Medium,Hell's Kitchen,9:02,23:28,2.3,TRUE
+159,Hermann-Torphy,Indian,Expensive,Long Island City,9:52,20:40,1.3,TRUE
+160,"Jones, Collins and Glover",Mexican,Medium,Upper East Side,5:38,20:39,1.3,TRUE
+161,Stanton Inc,Polish,Medium,Astoria,9:03,19:43,1.3,FALSE
+162,Klein and Sons,Japanese,Expensive,Upper East Side,9:12,19:06,2.2,TRUE
+163,"Spencer, Yost and Pouros",American,Expensive,Upper East Side,9:55,23:01,2.7,TRUE
+164,Herzog-Murphy,Japanese,Medium,Greenwich Village,7:00,22:45,2,FALSE
+165,"Hegmann, Hills and Kulas",Mexican,Expensive,Harlem,5:22,21:43,4.1,FALSE
+166,Bartoletti-Hettinger,Italian,Medium,Park Slope,6:39,21:24,4.4,FALSE
+167,Heaney-Homenick,Polish,Cheap,Long Island City,6:24,20:26,2.6,FALSE
+168,Williamson and Sons,Italian,Expensive,Long Island City,8:46,22:15,1.4,FALSE
+169,"Dare, Murray and McClure",Indian,Medium,Harlem,6:51,22:55,4.1,FALSE
+170,Schowalter-Kiehn,Japanese,Expensive,Park Slope,6:22,23:36,4.1,FALSE
+171,"Johnson, Kirlin and Cormier",Mexican,Medium,Williamsburg,7:51,21:55,1.3,FALSE
+172,Robel-Rowe,Indian,Medium,Hell's Kitchen,5:10,19:51,3,TRUE
+173,Corwin-Cruickshank,Indian,Expensive,Bushwick,8:27,20:51,4.1,FALSE
+174,"Pfannerstill, Gorczany and Padberg",Mexican,Cheap,Astoria,8:41,20:03,3.4,FALSE
+175,Dach Group,Middle Eastern,Cheap,Hell's Kitchen,9:03,20:22,3.8,FALSE
+176,"Bode, Kertzmann and Mann",American,Expensive,Bed-Stuy,8:12,19:08,2.5,FALSE
+177,Nienow-Schaefer,Japanese,Medium,Upper East Side,6:15,23:32,3.1,TRUE
+178,Smith Group,Indian,Medium,Astoria,7:50,22:43,3.7,FALSE
+179,Gulgowski-Larkin,Japanese,Medium,Greenwich Village,9:31,20:25,1.7,FALSE
+180,"Reichert, Kozey and Mills",Polish,Medium,Williamsburg,6:34,21:48,1.6,TRUE
+181,Gerhold Inc,Polish,Medium,Williamsburg,8:16,22:05,3,FALSE
+182,"McKenzie, Jaskolski and Heaney",Chinese,Cheap,Astoria,5:43,22:15,3.1,FALSE
+183,Kassulke Group,Polish,Expensive,Astoria,9:26,19:52,3.6,TRUE
+184,Cartwright-Stamm,Indian,Expensive,Bushwick,6:42,23:58,4.6,FALSE
+185,Cremin Inc,Chinese,Cheap,Park Slope,6:56,20:14,3.4,TRUE
+186,"Spinka, Kozey and Stracke",Polish,Expensive,Bed-Stuy,8:52,19:30,4.3,FALSE
+187,"Batz, Schumm and Stehr",Japanese,Expensive,Hell's Kitchen,8:52,23:30,2.1,FALSE
+188,Kuhn-Greenfelder,Japanese,Expensive,Long Island City,9:03,19:52,1.2,TRUE
+189,"Ernser, Grady and Fadel",Chinese,Expensive,Bushwick,6:05,21:02,3.3,FALSE
+190,"Cassin, Volkman and Dooley",Italian,Cheap,Park Slope,6:42,21:09,3.2,FALSE
+191,Wyman-Maggio,Thai,Medium,Bed-Stuy,6:34,21:14,1.6,FALSE
+192,"Jacobi, Brakus and Reichel",American,Expensive,Bushwick,8:54,22:20,3.2,TRUE
+193,"Mann, Crist and Brown",Thai,Cheap,Hell's Kitchen,9:54,21:30,2.3,FALSE
+194,Lebsack-Quitzon,Middle Eastern,Cheap,Bed-Stuy,5:25,20:29,2.5,FALSE
+195,"Kuphal, Smitham and Kuhlman",Thai,Expensive,Astoria,9:56,19:19,4.5,FALSE
+196,Roob-Metz,Japanese,Cheap,Astoria,8:00,20:50,2,TRUE
+197,"Rath, Koss and Carroll",Thai,Expensive,Williamsburg,6:42,22:51,4.7,FALSE
+198,Green-Dietrich,American,Medium,Williamsburg,9:59,22:04,4.1,TRUE
+199,Parisian and Sons,Italian,Expensive,Harlem,8:28,23:04,3.6,TRUE
+200,Oberbrunner-Christiansen,Middle Eastern,Expensive,Upper East Side,5:16,19:09,2.6,TRUE
+201,Koepp-Streich,Middle Eastern,Cheap,Hell's Kitchen,9:21,19:25,3.8,TRUE
+202,"Trantow, Hirthe and Bernhard",Mexican,Cheap,Long Island City,5:05,23:01,2.1,FALSE
+203,Romaguera Inc,Thai,Cheap,Hell's Kitchen,7:07,22:56,2.2,FALSE
+204,"Ankunding, Kessler and Braun",Italian,Expensive,Hell's Kitchen,7:55,21:59,1.5,TRUE
+205,Pouros-White,Middle Eastern,Medium,Williamsburg,8:28,21:11,2.4,TRUE
+206,Parisian Group,American,Medium,Hell's Kitchen,7:50,23:20,3.7,FALSE
+207,Conn and Sons,Chinese,Medium,Astoria,7:45,20:32,3.5,FALSE
+208,Bergnaum-Hackett,Japanese,Cheap,Upper East Side,5:29,20:50,1.8,TRUE
+209,"Beier, Corkery and Abshire",Japanese,Expensive,Hell's Kitchen,6:42,19:31,2.2,FALSE
+210,Weimann-Heathcote,Italian,Expensive,Bed-Stuy,5:53,19:15,4.7,TRUE
+211,Ledner Group,Mexican,Medium,Bed-Stuy,5:49,22:59,2.8,FALSE
+212,Wiegand Group,Middle Eastern,Cheap,Williamsburg,9:48,21:43,3.8,TRUE
+213,Ledner Inc,Polish,Medium,Park Slope,8:07,19:23,1.5,FALSE
+214,Tromp Inc,Indian,Medium,Astoria,7:52,21:12,3.3,FALSE
+215,Harris LLC,American,Expensive,Hell's Kitchen,7:10,20:16,3.2,TRUE
+216,Dooley-Mertz,Polish,Cheap,Park Slope,8:41,19:04,3.6,FALSE
+217,"Lesch, Satterfield and Lehner",Indian,Expensive,Astoria,5:48,19:13,1.5,FALSE
+218,Shanahan Inc,Japanese,Medium,Long Island City,7:17,23:58,1.6,FALSE
+219,Boyle Group,Japanese,Expensive,Bushwick,9:35,23:58,4.2,TRUE
+220,"Haley, Weimann and Sipes",American,Expensive,Upper East Side,7:19,23:23,2.6,TRUE
+221,"Ruecker, Smitham and McDermott",Mexican,Cheap,Astoria,5:44,22:34,2.1,TRUE
+222,Emard Inc,Polish,Medium,Hell's Kitchen,7:54,22:42,2.2,TRUE
+223,"Spencer, Ritchie and Crona",Polish,Medium,Williamsburg,6:32,22:43,3.6,FALSE
+224,Dooley-Hintz,Thai,Medium,Park Slope,9:44,22:28,2.7,FALSE
+225,Schmeler-McGlynn,Mexican,Medium,Hell's Kitchen,7:17,19:40,5,TRUE
+226,"Davis, Hayes and Kihn",Polish,Medium,Bushwick,6:33,22:03,1.2,TRUE
+227,Cole Group,Chinese,Expensive,Bushwick,6:34,23:04,4.1,TRUE
+228,Casper and Sons,Mexican,Expensive,Harlem,6:42,23:58,4.1,TRUE
+229,Bins-Nitzsche,Polish,Medium,Park Slope,5:30,21:18,3,TRUE
+230,"Reilly, Wintheiser and Sporer",Indian,Cheap,Harlem,9:42,22:02,3.4,TRUE
+231,"Hackett, Reichert and Veum",American,Cheap,Hell's Kitchen,7:40,21:53,1,TRUE
+232,Macejkovic-Jenkins,Middle Eastern,Expensive,Long Island City,7:50,20:53,2.1,FALSE
+233,Buckridge-Brown,Italian,Cheap,Upper East Side,6:24,23:32,2,FALSE
+234,Bode LLC,Indian,Medium,Long Island City,5:49,20:03,1.6,TRUE
+235,Denesik-Braun,Mexican,Medium,Upper East Side,9:48,21:43,1.6,FALSE
+236,"Reichert, Legros and Mraz",Indian,Expensive,Harlem,9:40,21:59,2.6,TRUE
+237,"Turcotte, Yost and O'Connell",Mexican,Cheap,Harlem,7:40,20:30,3.4,TRUE
+238,Blanda and Sons,Middle Eastern,Medium,Williamsburg,6:29,21:02,4.5,FALSE
+239,Leuschke Inc,Italian,Cheap,Harlem,7:30,22:11,3,FALSE
+240,Gulgowski and Sons,Polish,Expensive,Long Island City,6:32,23:51,1.5,TRUE
+241,Towne-Bosco,American,Expensive,Bushwick,6:00,23:47,3.5,TRUE
+242,Klocko Inc,Thai,Expensive,Hell's Kitchen,5:02,22:48,3,TRUE
+243,"Boehm, Feest and Treutel",Italian,Cheap,Greenwich Village,6:56,22:20,2.4,TRUE
+244,Vandervort-Kunze,Japanese,Cheap,Williamsburg,9:43,20:28,1.6,TRUE
+245,Emmerich-Bernhard,Japanese,Expensive,Upper East Side,5:56,19:56,2.3,FALSE
+246,Wiza LLC,Japanese,Cheap,Greenwich Village,9:09,19:53,4.4,TRUE
+247,"Kirlin, Sawayn and Kreiger",Indian,Medium,Astoria,7:49,20:35,1.5,FALSE
+248,Durgan LLC,Japanese,Expensive,Upper East Side,7:55,22:19,4.1,FALSE
+249,"Bartell, Zboncak and Olson",Chinese,Expensive,Upper East Side,7:21,21:19,1.5,TRUE
+250,"Sauer, Senger and Swaniawski",Indian,Expensive,Upper East Side,9:30,20:07,2.1,FALSE
+251,"Crist, Mayert and Medhurst",Polish,Medium,Astoria,5:51,22:45,2.1,FALSE
+252,Barton and Sons,Thai,Cheap,Harlem,6:03,20:27,1.3,TRUE
+253,"Sanford, Fadel and Thompson",Italian,Medium,Hell's Kitchen,9:07,23:23,4.9,TRUE
+254,Gutmann Inc,Italian,Cheap,Harlem,9:50,21:59,1.3,FALSE
+255,Heller-Wilderman,Polish,Cheap,Greenwich Village,7:29,19:52,1.3,FALSE
+256,"Johnson, Roberts and Bradtke",Japanese,Cheap,Hell's Kitchen,6:28,20:08,4.7,TRUE
+257,Ratke-Murray,Mexican,Expensive,Bushwick,6:43,21:35,3.8,FALSE
+258,Barrows Group,Indian,Cheap,Bed-Stuy,8:02,23:10,2.3,FALSE
+259,"Connelly, Batz and Senger",Thai,Cheap,Greenwich Village,6:00,22:07,1.9,FALSE
+260,"Will, Wisoky and Cartwright",Indian,Expensive,Park Slope,5:53,23:54,3,TRUE
+261,"Rempel, Barton and Wisozk",Thai,Cheap,Harlem,9:24,22:27,3.7,FALSE
+262,Spencer and Sons,Mexican,Medium,Astoria,7:25,19:51,1.7,TRUE
+263,Mosciski-Hammes,Mexican,Expensive,Bushwick,7:42,23:55,1.1,TRUE
+264,Quitzon Inc,Chinese,Medium,Long Island City,5:31,21:58,2.4,FALSE
+265,"Steuber, Collins and Lowe",Chinese,Expensive,Long Island City,6:24,19:49,2.3,FALSE
+266,Collier and Sons,Middle Eastern,Expensive,Upper East Side,9:21,23:30,4.1,TRUE
+267,Schulist-Deckow,Middle Eastern,Medium,Hell's Kitchen,8:25,22:22,4.8,TRUE
+268,"Durgan, Lind and Kiehn",Mexican,Medium,Greenwich Village,7:13,21:53,2.8,TRUE
+269,"Herman, Cartwright and McClure",Polish,Expensive,Bushwick,7:42,19:23,1.2,FALSE
+270,Ankunding LLC,American,Medium,Bushwick,9:06,23:41,2.7,FALSE
+271,Rosenbaum-Hansen,Polish,Expensive,Upper East Side,5:35,20:21,4.6,TRUE
+272,Grant Group,Mexican,Cheap,Bushwick,6:38,20:11,4.1,FALSE
+273,"Heller, Morar and Abshire",Japanese,Cheap,Hell's Kitchen,8:52,22:34,3.2,TRUE
+274,Rice-Lueilwitz,American,Cheap,Hell's Kitchen,7:36,20:15,4,FALSE
+275,Parisian-Klein,Mexican,Cheap,Bushwick,5:06,20:26,4.2,TRUE
+276,Witting Inc,Mexican,Medium,Long Island City,9:47,22:47,2.6,FALSE
+277,Schiller-Wilderman,Thai,Medium,Williamsburg,8:31,22:57,4.4,FALSE
+278,Crona-Prohaska,Chinese,Cheap,Bushwick,9:21,23:11,2.9,FALSE
+279,"Greenholt, Effertz and Fritsch",Thai,Expensive,Upper East Side,8:33,21:17,4.5,TRUE
+280,"Bosco, Beatty and Runolfsson",American,Medium,Park Slope,8:54,22:24,2.1,TRUE
+281,"Gibson, Hills and Grimes",American,Cheap,Astoria,5:47,23:03,1.3,FALSE
+282,Jacobson Group,Italian,Cheap,Astoria,7:17,20:15,4.5,FALSE
+283,Beier-Oberbrunner,Mexican,Expensive,Upper East Side,7:07,19:53,4.8,FALSE
+284,Roberts-Mosciski,Chinese,Cheap,Long Island City,5:41,22:11,2.1,FALSE
+285,Shanahan LLC,American,Medium,Hell's Kitchen,5:22,19:06,3.5,FALSE
+286,Schuster Group,Thai,Cheap,Bed-Stuy,9:06,21:12,4,FALSE
+287,Lakin and Sons,Polish,Cheap,Hell's Kitchen,7:18,20:31,2.2,FALSE
+288,Johnston-Kuhlman,Mexican,Cheap,Astoria,6:40,20:23,2.5,FALSE
+289,Buckridge-Koelpin,Mexican,Medium,Long Island City,8:09,19:20,4.8,FALSE
+290,Stark Group,Polish,Expensive,Harlem,7:18,20:30,4.2,TRUE
+291,Collier-Crist,Japanese,Cheap,Bed-Stuy,5:00,20:10,2.3,TRUE
+292,"Huels, Goldner and Yost",Middle Eastern,Medium,Upper East Side,5:57,20:37,1.7,TRUE
+293,"Bauch, Kutch and Hills",Polish,Cheap,Park Slope,6:52,21:11,1.1,FALSE
+294,Hickle-Kuhlman,Japanese,Cheap,Greenwich Village,8:02,21:41,1.6,FALSE
+295,"Hackett, Schowalter and Herman",Polish,Cheap,Long Island City,9:05,19:27,2.9,TRUE
+296,Bernhard-Brakus,American,Medium,Long Island City,6:21,21:22,3.7,FALSE
+297,Prohaska Inc,Polish,Medium,Greenwich Village,5:15,21:00,2,TRUE
+298,Tromp Group,American,Expensive,Hell's Kitchen,6:31,21:46,4.5,FALSE
+299,Streich-Braun,Chinese,Cheap,Harlem,7:35,23:46,3.8,FALSE
+300,"Ankunding, Swift and Kerluke",Italian,Expensive,Long Island City,8:17,21:25,2.6,FALSE
+301,Murazik-Hand,Thai,Expensive,Long Island City,5:44,21:55,2.6,TRUE
+302,"Dickinson, Marks and Herman",Thai,Cheap,Greenwich Village,5:32,19:39,4.7,FALSE
+303,Powlowski-Schimmel,Middle Eastern,Cheap,Long Island City,8:46,19:16,3.9,TRUE
+304,Sauer-Schuppe,Polish,Expensive,Harlem,6:43,21:33,3.5,FALSE
+305,Wintheiser-Kuhic,Thai,Expensive,Williamsburg,5:16,22:27,4.6,TRUE
+306,Labadie Group,Japanese,Expensive,Greenwich Village,9:28,19:00,4.1,TRUE
+307,Moore-Ankunding,Middle Eastern,Medium,Bed-Stuy,6:47,22:25,2.3,FALSE
+308,Klocko Group,Indian,Expensive,Hell's Kitchen,7:17,22:03,3.7,TRUE
+309,Macejkovic LLC,Middle Eastern,Medium,Upper East Side,9:56,20:45,2.2,TRUE
+310,Nienow Inc,Japanese,Medium,Astoria,7:31,22:24,3.3,TRUE
+311,"Balistreri, McLaughlin and Koss",Middle Eastern,Medium,Long Island City,8:32,21:05,2.4,FALSE
+312,Stiedemann Inc,Japanese,Expensive,Harlem,5:02,22:22,2.7,TRUE
+313,Blick-Predovic,Italian,Cheap,Greenwich Village,5:22,23:36,1.1,TRUE
+314,"Wisoky, Terry and Grant",Polish,Cheap,Astoria,8:26,19:50,1.4,TRUE
+315,"Cassin, Walsh and Ondricka",Mexican,Expensive,Long Island City,9:34,21:27,3.6,FALSE
+316,"Rice, Moore and McCullough",Chinese,Expensive,Astoria,7:50,19:36,3.6,FALSE
+317,"Kuhlman, Bruen and Kemmer",American,Expensive,Williamsburg,5:00,19:33,4.4,FALSE
+318,"West, Ryan and Ferry",Chinese,Cheap,Williamsburg,8:39,21:32,4.7,FALSE
+319,"Bartell, Windler and Monahan",Thai,Expensive,Greenwich Village,7:35,21:46,2.6,TRUE
+320,Schmeler Group,Mexican,Expensive,Park Slope,8:30,23:57,2.1,FALSE
+321,Schuppe Group,Mexican,Medium,Astoria,9:22,20:51,2.6,FALSE
+322,"Kling, Weimann and Kshlerin",Japanese,Expensive,Bushwick,7:26,19:06,1.1,TRUE
+323,Hoppe-Steuber,Japanese,Cheap,Astoria,6:30,19:59,4.8,TRUE
+324,Lind LLC,Polish,Cheap,Bed-Stuy,7:06,20:47,1.9,FALSE
+325,"Swift, Dach and Adams",Chinese,Medium,Hell's Kitchen,8:48,23:29,3.8,TRUE
+326,Auer LLC,Japanese,Expensive,Greenwich Village,9:17,21:26,1.1,FALSE
+327,Spinka-Hirthe,Middle Eastern,Cheap,Upper East Side,8:54,20:47,2.1,TRUE
+328,"Rutherford, McCullough and Adams",Middle Eastern,Expensive,Park Slope,8:58,21:55,2.5,FALSE
+329,Toy and Sons,Middle Eastern,Cheap,Hell's Kitchen,5:28,20:05,3.9,FALSE
+330,Monahan and Sons,Mexican,Cheap,Harlem,5:14,20:29,1,TRUE
+331,Price and Sons,Indian,Expensive,Upper East Side,7:35,19:08,4.6,FALSE
+332,"Sporer, Bogisich and Franecki",Chinese,Medium,Greenwich Village,5:25,20:38,1.1,FALSE
+333,McGlynn-McDermott,American,Cheap,Astoria,7:11,23:44,3.2,FALSE
+334,Herzog-Batz,Polish,Medium,Astoria,7:49,20:37,2,TRUE
+335,Wiza-Greenfelder,Chinese,Cheap,Long Island City,6:37,19:32,2.4,FALSE
+336,"Shanahan, Kiehn and Gusikowski",Polish,Cheap,Bed-Stuy,7:38,19:45,3.8,TRUE
+337,"Legros, Johns and Renner",Chinese,Expensive,Greenwich Village,7:53,21:15,4.1,FALSE
+338,Mann Group,Japanese,Medium,Williamsburg,5:20,19:16,4,TRUE
+339,Adams Inc,Polish,Medium,Park Slope,5:03,22:36,2.2,FALSE
+340,Friesen-Haag,Middle Eastern,Expensive,Park Slope,5:55,19:45,3.3,TRUE
+341,Yundt-Schneider,Polish,Medium,Park Slope,6:46,19:39,3.9,TRUE
+342,Walsh-Gleason,Thai,Medium,Bushwick,8:05,22:19,3.9,FALSE
+343,Kovacek Inc,Indian,Medium,Bed-Stuy,8:58,23:35,2.6,FALSE
+344,"Dooley, Green and Cruickshank",Middle Eastern,Medium,Astoria,8:43,22:51,2.3,FALSE
+345,"Stamm, Friesen and Gottlieb",Chinese,Expensive,Williamsburg,9:10,21:23,3.1,TRUE
+346,Wintheiser Inc,Japanese,Cheap,Harlem,6:38,21:28,2.2,FALSE
+347,Brakus LLC,Polish,Medium,Hell's Kitchen,7:20,22:55,4.1,TRUE
+348,"Ziemann, Bechtelar and Jacobson",Indian,Expensive,Hell's Kitchen,9:32,23:44,4.2,FALSE
+349,Glover LLC,Polish,Cheap,Bed-Stuy,8:49,23:52,4.8,TRUE
+350,Lueilwitz-O'Connell,Mexican,Expensive,Greenwich Village,6:40,22:55,1.7,TRUE
+351,Price and Sons,Polish,Expensive,Greenwich Village,5:29,20:59,1.9,TRUE
+352,"Zboncak, Bayer and Bechtelar",Mexican,Cheap,Long Island City,5:47,20:39,3.8,FALSE
+353,Olson and Sons,Chinese,Cheap,Long Island City,5:19,20:47,4.3,TRUE
+354,Glover-O'Conner,Polish,Expensive,Williamsburg,5:44,20:12,3.6,FALSE
+355,Kertzmann and Sons,Middle Eastern,Medium,Upper East Side,7:54,20:54,1.7,TRUE
+356,Wehner Inc,Mexican,Expensive,Upper East Side,9:20,19:08,3.3,FALSE
+357,Schmeler-Koelpin,Chinese,Cheap,Williamsburg,7:28,23:04,2.1,TRUE
+358,Langworth-VonRueden,Mexican,Medium,Bed-Stuy,5:53,19:10,1.9,TRUE
+359,Adams-Purdy,Indian,Medium,Bushwick,8:56,20:05,4.1,FALSE
+360,Murray Group,American,Expensive,Astoria,6:37,19:15,3,FALSE
+361,Metz-Rice,Mexican,Expensive,Astoria,6:58,23:36,2.2,FALSE
+362,Sanford and Sons,Chinese,Expensive,Bushwick,6:04,20:12,1.9,TRUE
+363,Keebler-Wyman,Mexican,Cheap,Williamsburg,8:45,19:27,2,TRUE
+364,Hills Group,Japanese,Cheap,Astoria,6:55,22:42,4.7,FALSE
+365,"Fisher, Witting and Boyle",Indian,Cheap,Harlem,5:47,22:17,1.2,TRUE
+366,Schuppe-Dickinson,American,Medium,Park Slope,7:38,23:36,1.6,FALSE
+367,"Altenwerth, Beer and Rau",Middle Eastern,Cheap,Williamsburg,6:08,23:06,3.3,FALSE
+368,"Kilback, McLaughlin and Douglas",Polish,Medium,Upper East Side,5:10,20:19,1.1,TRUE
+369,Stiedemann Group,Polish,Cheap,Hell's Kitchen,9:46,20:11,3.5,TRUE
+370,Jacobi Inc,Italian,Medium,Upper East Side,5:15,19:48,2.8,FALSE
+371,"Lockman, Marquardt and Satterfield",Mexican,Medium,Harlem,9:55,22:20,4.9,FALSE
+372,"Bernier, Hane and Nader",Indian,Medium,Astoria,6:45,20:33,3.8,FALSE
+373,"Haley, Hoeger and Braun",Polish,Cheap,Hell's Kitchen,7:30,22:46,1.6,TRUE
+374,"McGlynn, Rohan and Schmidt",Middle Eastern,Medium,Harlem,7:33,19:36,2,TRUE
+375,Hirthe-Koelpin,Mexican,Cheap,Greenwich Village,9:18,20:05,3.6,TRUE
+376,Lubowitz-Schamberger,Thai,Expensive,Bed-Stuy,6:19,23:35,4,FALSE
+377,Murphy-Turner,Middle Eastern,Cheap,Harlem,5:30,19:25,2.8,TRUE
+378,Towne Group,Japanese,Cheap,Upper East Side,6:05,22:08,4.7,TRUE
+379,Senger-Herman,Mexican,Cheap,Astoria,5:33,23:25,2.7,FALSE
+380,"Beier, Doyle and Monahan",Italian,Expensive,Harlem,5:47,23:13,2,TRUE
+381,"Walker, Witting and Auer",Indian,Expensive,Upper East Side,6:43,21:26,2.2,TRUE
+382,Klein LLC,Japanese,Expensive,Bushwick,8:19,23:06,1.4,FALSE
+383,"Labadie, Maggio and Runte",Chinese,Cheap,Greenwich Village,8:14,23:50,3.9,TRUE
+384,Kuvalis LLC,Polish,Cheap,Park Slope,6:18,20:13,4.6,FALSE
+385,Walter-Wilderman,Polish,Medium,Greenwich Village,9:26,20:08,3.4,FALSE
+386,Cummings-Reinger,Middle Eastern,Medium,Williamsburg,8:26,21:32,3,TRUE
+387,"Collier, Leannon and Boyer",Indian,Expensive,Williamsburg,9:17,21:23,2.1,FALSE
+388,Hansen Group,Chinese,Cheap,Harlem,5:55,20:52,5,TRUE
+389,Johnson Group,Italian,Expensive,Harlem,6:52,19:19,1.9,TRUE
+390,Stark Inc,Mexican,Expensive,Greenwich Village,9:34,22:46,2,FALSE
+391,Mayer LLC,Japanese,Medium,Bushwick,8:03,20:25,2,FALSE
+392,Wolf Inc,Mexican,Expensive,Park Slope,7:07,19:06,4.7,FALSE
+393,Reynolds-Bins,Middle Eastern,Expensive,Williamsburg,7:50,19:29,2.7,TRUE
+394,O'Reilly-Bernier,Indian,Cheap,Bushwick,8:30,23:54,4.1,FALSE
+395,Smith-Kautzer,Middle Eastern,Cheap,Harlem,5:27,22:29,4.4,TRUE
+396,Weimann-Cronin,Chinese,Medium,Upper East Side,7:40,21:05,1.5,TRUE
+397,Heaney-Satterfield,American,Expensive,Harlem,7:10,21:11,3.9,TRUE
+398,Little-Hagenes,Indian,Expensive,Williamsburg,7:24,23:41,3,TRUE
+399,Kshlerin-O'Connell,Polish,Expensive,Astoria,6:57,21:19,2,TRUE
+400,Prohaska-Gusikowski,Japanese,Medium,Long Island City,5:16,23:40,1.8,TRUE
+401,Fadel-Durgan,American,Cheap,Bushwick,5:08,21:24,3.8,TRUE
+402,Mante and Sons,Chinese,Cheap,Upper East Side,6:18,20:32,3.3,FALSE
+403,Oberbrunner-Lindgren,Thai,Cheap,Bushwick,6:13,22:48,4.8,FALSE
+404,O'Keefe-Collins,Middle Eastern,Medium,Bushwick,7:06,21:25,3.9,TRUE
+405,"Bernier, Osinski and Cormier",Polish,Medium,Hell's Kitchen,5:57,20:23,3.5,FALSE
+406,"Moen, Reinger and MacGyver",Indian,Medium,Williamsburg,5:39,22:11,4.6,FALSE
+407,"Casper, Waelchi and Effertz",Italian,Medium,Bushwick,7:03,23:18,1.5,TRUE
+408,Nolan Inc,Thai,Medium,Hell's Kitchen,9:46,19:08,4.6,TRUE
+409,Buckridge and Sons,Polish,Cheap,Upper East Side,6:54,23:43,4.2,FALSE
+410,Mitchell-Schaefer,Middle Eastern,Medium,Bed-Stuy,6:06,19:13,4.6,FALSE
+411,"Walsh, Kreiger and Braun",Italian,Cheap,Upper East Side,7:08,20:24,4.5,TRUE
+412,Flatley-Raynor,Chinese,Cheap,Harlem,5:51,22:10,1.8,FALSE
+413,"Bayer, Donnelly and Beahan",Thai,Medium,Bushwick,6:00,19:16,3.9,TRUE
+414,Padberg-Moen,Middle Eastern,Cheap,Greenwich Village,7:52,22:55,4.9,TRUE
+415,"Bednar, Sawayn and Nienow",Middle Eastern,Medium,Greenwich Village,5:16,23:26,1,FALSE
+416,"Willms, Sanford and Swaniawski",Japanese,Medium,Park Slope,7:33,20:02,1.5,FALSE
+417,"VonRueden, Kutch and Haag",American,Cheap,Upper East Side,8:42,22:55,1.3,FALSE
+418,"Bergstrom, Carroll and Witting",Middle Eastern,Cheap,Bed-Stuy,9:18,23:01,1.7,TRUE
+419,Bauch-Quitzon,Middle Eastern,Medium,Long Island City,6:40,20:38,2.6,FALSE
+420,McLaughlin-Aufderhar,Chinese,Medium,Hell's Kitchen,5:53,23:53,1.1,TRUE
+421,Wolff-Feeney,Italian,Medium,Bushwick,7:50,22:33,5,TRUE
+422,"Sanford, Swaniawski and Kling",Polish,Cheap,Upper East Side,5:13,23:12,2,TRUE
+423,"Douglas, Doyle and Mitchell",Chinese,Cheap,Upper East Side,5:28,22:25,1.3,FALSE
+424,"Strosin, Terry and Rodriguez",Middle Eastern,Cheap,Bushwick,6:44,20:53,4.8,TRUE
+425,"Weber, Hane and White",Chinese,Cheap,Bushwick,9:38,20:39,4.2,FALSE
+426,Wuckert Inc,Chinese,Cheap,Harlem,5:25,23:57,3.3,TRUE
+427,Reilly-Schneider,Chinese,Medium,Williamsburg,9:12,19:36,3.9,FALSE
+428,Rodriguez and Sons,American,Medium,Hell's Kitchen,5:12,20:28,3,FALSE
+429,"Greenholt, Predovic and Medhurst",Chinese,Medium,Park Slope,7:24,19:23,4.7,TRUE
+430,"Walker, Von and Hoppe",Indian,Cheap,Park Slope,5:31,19:28,2.3,TRUE
+431,Cole Inc,Mexican,Cheap,Astoria,5:55,21:46,4.3,FALSE
+432,Jast LLC,Italian,Cheap,Bed-Stuy,7:17,20:07,1.1,FALSE
+433,Littel Inc,Indian,Medium,Park Slope,5:29,22:55,5,TRUE
+434,"Kuhn, Deckow and Ward",Indian,Medium,Park Slope,9:29,21:00,3.6,TRUE
+435,"Senger, Klocko and Turcotte",Mexican,Expensive,Hell's Kitchen,9:34,20:27,1.3,FALSE
+436,"Fisher, Morissette and Schimmel",Polish,Expensive,Bushwick,9:19,20:09,2.7,TRUE
+437,"Raynor, Schumm and Kilback",Polish,Cheap,Greenwich Village,7:44,20:46,1.8,FALSE
+438,"Price, Gutmann and Harvey",Italian,Cheap,Park Slope,6:08,20:00,3.7,FALSE
+439,Boyer and Sons,Polish,Cheap,Park Slope,5:15,20:53,4.9,TRUE
+440,Walker-Hudson,Italian,Medium,Long Island City,7:29,20:46,1.5,FALSE
+441,Ernser-Gutkowski,American,Cheap,Hell's Kitchen,7:44,19:44,3.1,TRUE
+442,Harris-Abernathy,Italian,Expensive,Park Slope,5:08,22:56,3.5,TRUE
+443,Bradtke and Sons,American,Expensive,Hell's Kitchen,8:04,21:43,3.2,TRUE
+444,Ziemann and Sons,Middle Eastern,Expensive,Long Island City,9:28,21:50,3.8,TRUE
+445,"Marvin, Monahan and Morissette",Polish,Cheap,Upper East Side,7:27,22:57,2.5,FALSE
+446,O'Connell and Sons,Chinese,Cheap,Long Island City,8:19,19:01,2,FALSE
+447,Friesen-Franecki,American,Cheap,Park Slope,8:56,21:08,2,FALSE
+448,Jakubowski LLC,Mexican,Expensive,Bushwick,6:33,23:24,3.5,TRUE
+449,Mitchell Inc,Middle Eastern,Expensive,Long Island City,9:19,21:39,3.7,TRUE
+450,Langworth-Stanton,Indian,Cheap,Long Island City,7:04,20:41,3.8,TRUE
+451,"Rolfson, Mohr and Cremin",Italian,Cheap,Williamsburg,6:08,19:57,3.4,TRUE
+452,Okuneva Group,American,Medium,Bushwick,6:40,20:27,2.3,FALSE
+453,Roob Inc,Indian,Cheap,Hell's Kitchen,5:04,21:40,4.1,TRUE
+454,Konopelski-Strosin,Middle Eastern,Medium,Harlem,8:31,22:51,4.6,TRUE
+455,"Schuster, Bayer and Gleason",Chinese,Cheap,Williamsburg,8:10,22:29,4.1,TRUE
+456,"Kutch, Klein and Jacobs",American,Expensive,Williamsburg,8:36,19:47,2.4,FALSE
+457,Hansen and Sons,Polish,Cheap,Upper East Side,5:55,21:55,3.8,FALSE
+458,Stiedemann and Sons,American,Cheap,Williamsburg,9:55,20:15,3.2,TRUE
+459,"White, Veum and Rosenbaum",American,Cheap,Greenwich Village,9:45,22:02,4.3,FALSE
+460,Douglas and Sons,Polish,Cheap,Bushwick,9:26,23:39,2,TRUE
+461,Stoltenberg LLC,Middle Eastern,Medium,Park Slope,6:42,20:07,1.8,FALSE
+462,O'Reilly and Sons,American,Expensive,Upper East Side,9:01,21:49,4.8,FALSE
+463,Dickens-Murray,Japanese,Cheap,Hell's Kitchen,8:34,21:44,4.1,TRUE
+464,Roberts LLC,Thai,Medium,Long Island City,6:36,22:31,2.5,TRUE
+465,Bins-Zemlak,Mexican,Medium,Greenwich Village,5:10,21:20,4.3,FALSE
+466,Sipes LLC,Italian,Medium,Harlem,8:43,21:19,2.9,TRUE
+467,"Bartell, Corwin and Jacobson",Italian,Cheap,Hell's Kitchen,6:06,20:14,2.9,FALSE
+468,Wisoky Inc,Indian,Medium,Astoria,8:04,21:19,4.2,TRUE
+469,"Heidenreich, Dickinson and Dare",Indian,Expensive,Park Slope,8:23,19:16,2.5,FALSE
+470,Farrell Group,American,Cheap,Williamsburg,6:06,22:03,3.5,TRUE
+471,Stokes-Pacocha,Chinese,Medium,Park Slope,5:19,22:15,4,TRUE
+472,"Morar, Leffler and Bergstrom",Indian,Expensive,Bushwick,6:07,23:41,3.2,FALSE
+473,Ryan-Konopelski,American,Expensive,Harlem,7:57,19:40,1.6,FALSE
+474,Dooley-Zulauf,Chinese,Cheap,Williamsburg,6:06,22:18,3,TRUE
+475,Prosacco Group,American,Cheap,Greenwich Village,5:55,21:27,1.9,FALSE
+476,Mayer and Sons,Chinese,Expensive,Harlem,8:54,23:26,3.3,TRUE
+477,Hayes-Lind,Middle Eastern,Cheap,Bushwick,7:55,22:52,4.4,FALSE
+478,Zboncak Group,Italian,Expensive,Williamsburg,9:35,21:17,2.9,FALSE
+479,Murazik Group,Indian,Medium,Hell's Kitchen,6:15,22:20,2.5,FALSE
+480,"O'Kon, Altenwerth and Oberbrunner",Japanese,Medium,Upper East Side,9:26,20:39,2.4,TRUE
+481,Oberbrunner and Sons,Thai,Cheap,Upper East Side,6:54,21:58,2.9,FALSE
+482,"Murazik, Kling and Kulas",Mexican,Cheap,Greenwich Village,7:23,20:10,2.8,TRUE
+483,Franecki-Wisoky,Polish,Expensive,Bed-Stuy,5:12,19:41,3.6,TRUE
+484,Luettgen-O'Hara,Japanese,Medium,Harlem,8:23,22:54,1.7,TRUE
+485,Rolfson-Ferry,Indian,Medium,Greenwich Village,7:31,22:50,3,TRUE
+486,Beatty LLC,Mexican,Medium,Williamsburg,8:47,19:18,4.4,TRUE
+487,Sawayn-Predovic,Mexican,Medium,Hell's Kitchen,6:48,21:59,1.9,TRUE
+488,Morissette-Mueller,Indian,Cheap,Bushwick,5:01,22:04,4.8,FALSE
+489,Shields Inc,Mexican,Cheap,Harlem,7:21,23:01,1.6,FALSE
+490,"Considine, Maggio and Muller",Japanese,Medium,Park Slope,8:48,21:51,4.3,TRUE
+491,Kunde-Jerde,Middle Eastern,Expensive,Bed-Stuy,9:05,22:23,2.2,TRUE
+492,Little-Hamill,Japanese,Medium,Greenwich Village,6:32,19:04,3.8,FALSE
+493,"Swift, Boehm and Weimann",Indian,Expensive,Astoria,7:48,19:00,1.1,TRUE
+494,"Schultz, Herman and Becker",Polish,Expensive,Bushwick,7:09,22:22,3.9,TRUE
+495,"Brown, Mueller and Fahey",Polish,Cheap,Bed-Stuy,7:08,20:00,3.8,FALSE
+496,Feeney Group,American,Cheap,Astoria,9:30,23:51,4.7,TRUE
+497,Lueilwitz-Block,Indian,Expensive,Bushwick,9:51,20:39,4,TRUE
+498,"Feest, Smith and Grady",Chinese,Expensive,Park Slope,8:58,19:44,3.2,TRUE
+499,Goodwin Inc,Chinese,Expensive,Hell's Kitchen,8:24,19:08,4.4,FALSE
+500,Fisher-Bosco,American,Expensive,Astoria,5:43,22:58,2.9,TRUE
+501,Bosco Inc,Indian,Cheap,Williamsburg,8:57,22:54,5,FALSE
+502,"Murazik, Pollich and Kovacek",Indian,Medium,Bed-Stuy,5:52,23:39,4,FALSE
+503,Ernser and Sons,Japanese,Medium,Bushwick,5:18,19:35,1.4,TRUE
+504,"Fahey, Lubowitz and Ryan",Polish,Expensive,Harlem,9:19,23:58,4.7,FALSE
+505,"Wehner, VonRueden and Mills",Polish,Cheap,Greenwich Village,5:50,23:38,2.6,TRUE
+506,Shields-Roberts,American,Medium,Greenwich Village,9:49,20:54,2,TRUE
+507,Considine Inc,Indian,Cheap,Hell's Kitchen,7:25,23:51,2.2,FALSE
+508,"Friesen, Sipes and Langosh",Japanese,Medium,Park Slope,7:55,23:01,1.9,FALSE
+509,"Predovic, Johns and Anderson",Mexican,Expensive,Park Slope,9:07,21:23,1,FALSE
+510,Hirthe Group,Chinese,Expensive,Williamsburg,6:00,19:40,4.3,TRUE
+511,"Murray, Moen and Effertz",Middle Eastern,Medium,Greenwich Village,6:05,22:36,1.9,TRUE
+512,"Monahan, Monahan and Beer",American,Medium,Astoria,7:13,19:20,2.7,FALSE
+513,Price-Monahan,Indian,Cheap,Williamsburg,5:03,22:09,3.4,TRUE
+514,"Corwin, Kreiger and Rolfson",Middle Eastern,Expensive,Harlem,5:10,19:01,2.1,TRUE
+515,Kuhlman-Anderson,Polish,Cheap,Bed-Stuy,8:23,19:19,3.9,TRUE
+516,Barrows-Schultz,Mexican,Expensive,Hell's Kitchen,9:28,23:05,1.3,FALSE
+517,Ebert-Beatty,Italian,Expensive,Bed-Stuy,5:23,23:39,3.8,FALSE
+518,"Hettinger, Greenfelder and Lehner",Italian,Cheap,Bushwick,5:06,22:12,3.5,TRUE
+519,Schmitt and Sons,Japanese,Expensive,Williamsburg,7:11,22:01,3.4,TRUE
+520,Watsica Group,Polish,Cheap,Hell's Kitchen,6:35,22:08,1.3,FALSE
+521,Waters LLC,Japanese,Expensive,Bushwick,9:59,20:04,3.8,FALSE
+522,Lakin-Shields,Italian,Expensive,Bed-Stuy,7:07,22:26,3.4,TRUE
+523,"Kuphal, Cartwright and Jakubowski",American,Expensive,Park Slope,6:27,20:59,1.7,FALSE
+524,Shields and Sons,Japanese,Medium,Park Slope,7:45,21:58,3.2,TRUE
+525,Kuphal LLC,Polish,Expensive,Park Slope,6:50,20:52,5,TRUE
+526,Dietrich Inc,Indian,Cheap,Harlem,8:51,19:42,4.4,TRUE
+527,Ankunding-Jacobs,Chinese,Medium,Greenwich Village,6:40,23:37,1.6,FALSE
+528,Johnson-Ernser,Thai,Medium,Long Island City,6:13,20:49,2.4,FALSE
+529,Haag LLC,Japanese,Cheap,Bushwick,5:17,23:21,1.7,FALSE
+530,Cartwright-Schultz,Mexican,Medium,Long Island City,9:14,23:22,3.8,FALSE
+531,Monahan LLC,Italian,Cheap,Bed-Stuy,6:04,19:08,3.2,FALSE
+532,"Hermiston, Vandervort and McLaughlin",Middle Eastern,Cheap,Williamsburg,5:39,19:11,1.6,TRUE
+533,Bashirian LLC,Japanese,Medium,Astoria,8:22,23:25,4,TRUE
+534,Hayes-Jacobi,Middle Eastern,Expensive,Williamsburg,5:27,22:16,5,FALSE
+535,Cole and Sons,Middle Eastern,Medium,Williamsburg,9:37,21:26,4,FALSE
+536,Ondricka LLC,Japanese,Medium,Greenwich Village,7:16,19:11,1.3,FALSE
+537,Waters-Torp,Polish,Medium,Bushwick,9:29,23:27,3.8,TRUE
+538,"Kirlin, Osinski and Schulist",Italian,Cheap,Harlem,8:59,20:06,4.9,TRUE
+539,"Stoltenberg, Jacobs and Ruecker",Indian,Cheap,Long Island City,5:24,21:02,2.4,FALSE
+540,Rolfson-Jones,Thai,Medium,Bed-Stuy,5:31,20:57,4.7,FALSE
+541,Kozey Inc,Middle Eastern,Medium,Hell's Kitchen,6:07,23:15,2.7,FALSE
+542,Upton-Lowe,Polish,Medium,Harlem,7:51,23:07,2,TRUE
+543,"Jakubowski, Corwin and Howell",Japanese,Expensive,Harlem,7:39,22:10,5,FALSE
+544,"Padberg, Predovic and Schoen",Indian,Medium,Greenwich Village,8:15,19:44,2.7,FALSE
+545,"Mueller, Runolfsdottir and Hand",Chinese,Cheap,Bed-Stuy,7:30,21:04,1.9,TRUE
+546,Howe-Bernier,Mexican,Expensive,Hell's Kitchen,7:55,21:33,1.1,TRUE
+547,Orn-Pouros,Thai,Expensive,Greenwich Village,6:08,19:04,1,FALSE
+548,Lesch LLC,Indian,Cheap,Astoria,7:58,21:42,3.5,FALSE
+549,Lowe Group,Italian,Cheap,Bed-Stuy,5:12,21:11,4,FALSE
+550,Raynor-Hamill,Chinese,Medium,Williamsburg,8:02,20:18,2.2,TRUE
+551,Gibson-MacGyver,Thai,Cheap,Long Island City,6:01,20:53,1.8,TRUE
+552,"Sauer, Hodkiewicz and Rath",Polish,Cheap,Park Slope,6:21,22:39,4.6,TRUE
+553,"Erdman, Reinger and Metz",Chinese,Medium,Harlem,9:59,21:40,4.2,TRUE
+554,Bahringer-McKenzie,Italian,Expensive,Greenwich Village,9:00,20:11,2.3,TRUE
+555,Sporer-Olson,Japanese,Medium,Park Slope,9:17,22:29,3.5,TRUE
+556,Rath-Parker,Thai,Cheap,Upper East Side,7:04,22:47,1.1,TRUE
+557,"Hintz, Okuneva and Mayert",Chinese,Cheap,Hell's Kitchen,5:17,23:00,4.6,FALSE
+558,"Mitchell, Becker and Abshire",Chinese,Medium,Hell's Kitchen,7:32,20:35,2.6,FALSE
+559,Cruickshank-Cummerata,Mexican,Expensive,Bushwick,6:48,20:53,3.6,TRUE
+560,Metz Group,Thai,Medium,Bed-Stuy,9:19,23:11,3.6,FALSE
+561,Purdy Group,Thai,Expensive,Hell's Kitchen,6:18,23:33,3,FALSE
+562,Rau Inc,Japanese,Expensive,Astoria,5:16,19:34,2,FALSE
+563,Stoltenberg Inc,Italian,Medium,Williamsburg,6:39,21:19,3.7,FALSE
+564,"Ratke, Franecki and Bernhard",Mexican,Expensive,Harlem,5:37,21:41,4.5,TRUE
+565,"Brekke, Nitzsche and Kilback",Indian,Medium,Bushwick,7:30,20:14,4,FALSE
+566,"Kohler, Cruickshank and O'Reilly",Mexican,Medium,Astoria,8:46,21:11,1.3,FALSE
+567,Denesik and Sons,Thai,Cheap,Hell's Kitchen,9:51,20:57,4.8,FALSE
+568,"Lubowitz, Daugherty and Schaden",Indian,Medium,Upper East Side,8:51,20:13,1.5,FALSE
+569,Hammes and Sons,Italian,Medium,Bushwick,9:26,19:58,1.8,TRUE
+570,Lakin and Sons,Polish,Medium,Bed-Stuy,5:59,19:05,1.6,TRUE
+571,Kovacek-Koss,Japanese,Expensive,Harlem,5:28,20:27,3.9,TRUE
+572,"Botsford, Kuhic and Ullrich",Middle Eastern,Expensive,Williamsburg,8:19,21:41,3.5,FALSE
+573,"Kub, Hermann and Feeney",Polish,Cheap,Long Island City,9:44,20:29,2,TRUE
+574,"Schimmel, Bartoletti and Blanda",American,Medium,Long Island City,5:33,22:58,4.3,FALSE
+575,Jones Group,Italian,Expensive,Park Slope,8:10,23:28,3.3,FALSE
+576,Schroeder and Sons,Thai,Medium,Harlem,9:07,19:01,3.9,TRUE
+577,"Witting, Schamberger and Witting",Mexican,Expensive,Long Island City,9:37,22:30,3.1,TRUE
+578,Zieme LLC,Thai,Cheap,Hell's Kitchen,6:02,22:37,4.2,TRUE
+579,"Ondricka, Reichert and Hodkiewicz",Italian,Expensive,Astoria,6:52,20:26,3.6,FALSE
+580,Koelpin-Ruecker,Italian,Medium,Upper East Side,6:06,19:11,1.3,TRUE
+581,"Herzog, Dicki and Gutmann",Chinese,Medium,Williamsburg,7:26,20:28,3.2,TRUE
+582,"McLaughlin, Hamill and Watsica",American,Medium,Long Island City,8:44,23:49,1.5,TRUE
+583,Spencer and Sons,Middle Eastern,Cheap,Harlem,6:45,19:50,4.7,FALSE
+584,McClure-Torphy,Thai,Cheap,Greenwich Village,5:55,23:57,3.6,TRUE
+585,Reichel-Orn,Polish,Cheap,Bushwick,6:43,21:33,5,TRUE
+586,Heathcote-Corwin,Japanese,Cheap,Bed-Stuy,9:23,22:09,3.1,FALSE
+587,Hilll Group,Thai,Expensive,Williamsburg,7:11,23:21,3.6,TRUE
+588,"Monahan, Kihn and Stoltenberg",Italian,Medium,Astoria,8:50,23:30,2.1,TRUE
+589,Jenkins LLC,Polish,Medium,Harlem,9:08,23:47,1.6,FALSE
+590,Hirthe-Rowe,Indian,Medium,Bed-Stuy,6:29,21:58,1.7,TRUE
+591,Reinger-Schumm,Polish,Medium,Upper East Side,9:06,23:29,3.6,TRUE
+592,Rempel Group,Chinese,Medium,Park Slope,6:38,19:48,2.4,FALSE
+593,Ruecker-Yost,Mexican,Cheap,Park Slope,6:51,22:55,4,FALSE
+594,Thompson-Boyer,Indian,Cheap,Bushwick,5:16,22:06,3.5,FALSE
+595,Pollich Group,Japanese,Medium,Upper East Side,9:14,19:00,2.9,FALSE
+596,Willms-Walsh,Japanese,Medium,Astoria,5:08,19:07,2.1,FALSE
+597,Schulist-Parker,Italian,Medium,Bed-Stuy,5:33,22:16,2.1,FALSE
+598,Kshlerin Inc,Chinese,Expensive,Williamsburg,5:14,21:11,1.6,FALSE
+599,"Kuhn, Little and Wolf",American,Expensive,Hell's Kitchen,9:43,21:03,3.8,TRUE
+600,Mertz-Stehr,Italian,Cheap,Bed-Stuy,9:29,21:45,3.7,FALSE
+601,Simonis-Yost,Mexican,Medium,Astoria,7:41,20:33,2.9,TRUE
+602,Kessler Inc,Indian,Expensive,Park Slope,8:05,20:12,2.9,FALSE
+603,"Parisian, MacGyver and Simonis",Chinese,Cheap,Harlem,6:26,21:36,2.9,TRUE
+604,Veum-Beer,Indian,Medium,Bushwick,9:09,21:45,1.2,FALSE
+605,"MacGyver, O'Reilly and Cartwright",Indian,Cheap,Astoria,9:02,23:11,4.6,FALSE
+606,Gislason-Monahan,Chinese,Medium,Hell's Kitchen,5:38,21:47,4.7,FALSE
+607,MacGyver-Howe,Japanese,Expensive,Hell's Kitchen,6:50,22:17,1.8,TRUE
+608,"Kiehn, Larkin and Hettinger",American,Expensive,Bed-Stuy,5:00,21:47,4.7,FALSE
+609,"Legros, Tromp and Hettinger",Thai,Expensive,Bushwick,7:44,23:36,3.9,FALSE
+610,Keeling Group,Middle Eastern,Cheap,Upper East Side,6:46,23:23,4.1,FALSE
+611,D'Amore Group,Polish,Cheap,Bed-Stuy,9:32,19:40,1.8,FALSE
+612,"Wunsch, Funk and Kertzmann",Chinese,Cheap,Bushwick,7:00,19:04,2.9,FALSE
+613,"Mosciski, Collier and Nikolaus",American,Medium,Long Island City,5:18,22:31,3.7,TRUE
+614,Rogahn-Swaniawski,Indian,Cheap,Long Island City,5:01,20:04,4.3,FALSE
+615,"Kautzer, Bergstrom and Harber",Polish,Expensive,Upper East Side,6:27,19:55,1.9,FALSE
+616,"White, Nikolaus and Witting",Middle Eastern,Expensive,Upper East Side,8:00,19:29,4.9,FALSE
+617,Dickinson Group,Chinese,Expensive,Bed-Stuy,6:23,22:22,4.3,FALSE
+618,Larkin-Hagenes,Indian,Cheap,Park Slope,5:34,22:18,2.7,FALSE
+619,Walker-Buckridge,American,Medium,Greenwich Village,7:53,23:01,4.4,TRUE
+620,"Cremin, Satterfield and Gerhold",Mexican,Medium,Astoria,5:07,22:13,1.7,TRUE
+621,Sporer and Sons,Chinese,Expensive,Harlem,6:01,20:30,2.9,FALSE
+622,Hane-Gleichner,Polish,Expensive,Harlem,7:00,22:18,4.1,FALSE
+623,"Stanton, Hoppe and Langosh",Indian,Medium,Harlem,5:53,21:01,1.8,FALSE
+624,"Oberbrunner, Hickle and Stehr",Japanese,Cheap,Long Island City,6:42,19:40,2.8,TRUE
+625,Upton-Corkery,Japanese,Cheap,Park Slope,9:13,19:36,2.6,TRUE
+626,Predovic-Cummerata,Indian,Expensive,Astoria,9:50,23:12,4.9,TRUE
+627,Spencer-Senger,Italian,Cheap,Bed-Stuy,9:34,21:31,3.3,TRUE
+628,McLaughlin and Sons,Japanese,Expensive,Astoria,5:02,20:04,4.2,FALSE
+629,Pagac LLC,Japanese,Medium,Park Slope,6:31,20:50,4,TRUE
+630,Moore LLC,American,Medium,Bed-Stuy,7:06,20:43,4.1,FALSE
+631,"Ledner, Davis and Bradtke",Japanese,Medium,Bed-Stuy,8:29,20:18,4.8,FALSE
+632,Mills Inc,Chinese,Cheap,Bed-Stuy,8:58,19:14,1.8,TRUE
+633,Brown-Brekke,Indian,Medium,Bushwick,9:19,22:14,3.9,TRUE
+634,"Reilly, Tremblay and Skiles",Italian,Cheap,Williamsburg,8:37,23:17,1.9,FALSE
+635,"Kessler, Flatley and Hackett",American,Medium,Bed-Stuy,7:22,21:39,3.3,TRUE
+636,Bogan-Keeling,Mexican,Expensive,Williamsburg,8:37,21:10,1.3,FALSE
+637,Bailey Group,Polish,Medium,Upper East Side,8:01,22:01,4.8,FALSE
+638,Bernhard-Lindgren,American,Cheap,Upper East Side,7:52,21:08,4.9,TRUE
+639,"Treutel, Bruen and McGlynn",Thai,Expensive,Park Slope,9:42,23:35,4.9,TRUE
+640,Zieme Inc,Indian,Expensive,Upper East Side,6:32,19:26,3.1,FALSE
+641,"Hodkiewicz, Schmitt and Wilderman",Mexican,Cheap,Greenwich Village,6:34,20:18,2.8,TRUE
+642,Kessler Inc,Middle Eastern,Expensive,Astoria,9:09,19:53,2.5,TRUE
+643,Bernier-Windler,Polish,Expensive,Bed-Stuy,6:37,22:27,2.7,TRUE
+644,Hand and Sons,Japanese,Cheap,Bushwick,6:57,19:19,1.4,FALSE
+645,"Murray, DuBuque and Harber",American,Cheap,Bushwick,6:15,23:52,4.4,FALSE
+646,"Hayes, Gislason and Little",Indian,Medium,Hell's Kitchen,7:18,22:50,1.4,TRUE
+647,"Howell, Larkin and Kunze",Middle Eastern,Cheap,Astoria,7:15,19:43,1.3,FALSE
+648,"Batz, Keebler and Dietrich",Chinese,Cheap,Bushwick,5:15,21:00,1.2,FALSE
+649,Will Inc,Polish,Medium,Greenwich Village,5:43,21:47,1.5,TRUE
+650,"Kub, Ritchie and Torp",Chinese,Expensive,Bed-Stuy,8:12,22:12,3.6,TRUE
+651,"Mitchell, Orn and Paucek",Japanese,Cheap,Harlem,9:46,22:55,4.6,TRUE
+652,Reilly Inc,Thai,Expensive,Astoria,6:28,20:03,3.9,TRUE
+653,Kuhn-Harris,Japanese,Medium,Bushwick,7:16,21:36,3.6,TRUE
+654,"Keebler, Bartoletti and Lemke",Japanese,Cheap,Hell's Kitchen,7:12,23:50,4,TRUE
+655,Fahey-Lynch,Chinese,Medium,Upper East Side,9:12,22:31,1.2,FALSE
+656,Schowalter LLC,Japanese,Expensive,Park Slope,6:11,23:02,3.4,TRUE
+657,Graham LLC,American,Expensive,Bed-Stuy,7:13,20:37,2.6,TRUE
+658,Boyer-Heathcote,Italian,Cheap,Long Island City,9:17,22:33,1.5,TRUE
+659,Bosco Group,Indian,Cheap,Greenwich Village,9:18,21:20,3.2,FALSE
+660,Considine Inc,Indian,Medium,Hell's Kitchen,7:43,19:27,4.6,TRUE
+661,"Roberts, Miller and Predovic",Japanese,Medium,Astoria,7:04,21:05,2.6,FALSE
+662,Treutel-Volkman,American,Expensive,Astoria,9:59,22:38,4.1,FALSE
+663,Breitenberg-Kuphal,Italian,Cheap,Park Slope,6:23,21:56,3.7,TRUE
+664,Kemmer-Borer,Middle Eastern,Expensive,Bushwick,8:20,20:06,1.8,FALSE
+665,Olson-Baumbach,Thai,Cheap,Greenwich Village,9:10,19:07,2.6,TRUE
+666,"Miller, Volkman and Lowe",Mexican,Medium,Williamsburg,5:23,20:48,2.7,TRUE
+667,Schneider-Feeney,Chinese,Medium,Park Slope,5:39,20:27,4.6,FALSE
+668,Fay and Sons,Mexican,Expensive,Astoria,5:57,21:48,4.5,FALSE
+669,"Turcotte, Ondricka and Schmidt",Middle Eastern,Expensive,Bed-Stuy,7:31,20:40,2.8,FALSE
+670,Stamm and Sons,Japanese,Cheap,Greenwich Village,8:09,19:59,3.1,TRUE
+671,Klein Inc,Chinese,Cheap,Harlem,8:49,19:37,2.7,FALSE
+672,Beatty LLC,Mexican,Expensive,Long Island City,6:16,22:41,2.4,TRUE
+673,Cremin-Little,Japanese,Cheap,Upper East Side,6:19,23:31,4.2,TRUE
+674,Stanton Group,Chinese,Medium,Greenwich Village,5:05,19:29,2.2,TRUE
+675,Graham Inc,Thai,Cheap,Williamsburg,6:58,20:14,1.9,FALSE
+676,"Murazik, Kuhn and Tromp",Thai,Medium,Greenwich Village,9:23,23:13,3.6,TRUE
+677,"Crona, Jacobs and Hartmann",Middle Eastern,Cheap,Bushwick,8:43,20:54,2.7,FALSE
+678,"Wiza, Willms and Senger",Japanese,Medium,Upper East Side,8:33,22:34,4.4,TRUE
+679,Luettgen Inc,Thai,Expensive,Park Slope,9:03,19:11,3,FALSE
+680,Rutherford-Hettinger,Mexican,Cheap,Hell's Kitchen,9:53,19:38,1.7,TRUE
+681,Jacobs-Flatley,Thai,Medium,Long Island City,6:44,22:23,1.7,FALSE
+682,Zieme-Brekke,Indian,Expensive,Astoria,9:34,23:08,5,TRUE
+683,Abbott and Sons,Thai,Medium,Greenwich Village,5:50,20:53,1,FALSE
+684,Schroeder-Buckridge,Chinese,Medium,Greenwich Village,7:54,19:19,1.3,TRUE
+685,Rohan-Christiansen,Polish,Medium,Williamsburg,6:02,19:12,1.8,FALSE
+686,Grant LLC,Japanese,Medium,Harlem,8:26,19:48,2.7,FALSE
+687,"Kuhlman, Torp and Wolf",Polish,Medium,Bed-Stuy,5:15,22:42,1.8,FALSE
+688,"Carroll, West and Hamill",Polish,Cheap,Greenwich Village,7:05,21:01,1.9,TRUE
+689,"Gerhold, Stiedemann and Reichel",Polish,Medium,Park Slope,8:25,22:48,4.3,TRUE
+690,Nicolas-Reichel,Thai,Expensive,Hell's Kitchen,5:24,21:38,3,FALSE
+691,Powlowski-Nicolas,Mexican,Expensive,Astoria,7:43,19:47,4,TRUE
+692,"Nikolaus, Walsh and Schmitt",Polish,Cheap,Greenwich Village,6:17,21:30,4.6,TRUE
+693,"Christiansen, Schulist and Stanton",Japanese,Expensive,Bushwick,9:04,23:14,3.7,TRUE
+694,Schumm-Kertzmann,Middle Eastern,Medium,Hell's Kitchen,5:30,20:17,1,FALSE
+695,"Moore, Kilback and Kuvalis",Polish,Medium,Harlem,9:20,19:42,2.7,FALSE
+696,Rowe-West,Mexican,Expensive,Williamsburg,9:32,23:10,2.7,TRUE
+697,Mertz-Bailey,Chinese,Expensive,Hell's Kitchen,5:32,19:39,1.6,FALSE
+698,"Kris, Veum and West",Mexican,Expensive,Bed-Stuy,5:28,19:25,3.4,TRUE
+699,Dickens-Rice,Middle Eastern,Cheap,Upper East Side,8:48,19:33,3.5,TRUE
+700,Lowe Group,Mexican,Expensive,Park Slope,8:31,21:59,2.5,TRUE
+701,Bogan LLC,Polish,Medium,Long Island City,9:34,23:22,4.3,TRUE
+702,"Cole, Schuster and Lubowitz",Mexican,Cheap,Park Slope,5:00,20:20,4.8,FALSE
+703,Treutel-Tillman,Indian,Medium,Bed-Stuy,7:39,23:42,1.1,TRUE
+704,"McDermott, Ernser and Crona",Italian,Medium,Williamsburg,9:33,19:21,1.5,TRUE
+705,Rutherford LLC,Mexican,Cheap,Astoria,9:01,23:02,1.3,TRUE
+706,"Waters, Morar and Torp",Indian,Medium,Hell's Kitchen,6:37,23:13,4.5,FALSE
+707,"Dicki, Toy and Smith",Chinese,Medium,Long Island City,9:45,19:55,4.5,TRUE
+708,Lowe-Goodwin,Polish,Medium,Bed-Stuy,7:48,23:09,2.2,FALSE
+709,Bauch Group,American,Medium,Bushwick,5:01,21:30,1.7,FALSE
+710,Cormier Inc,Mexican,Cheap,Harlem,9:19,22:28,2.8,TRUE
+711,Rodriguez Group,Chinese,Medium,Astoria,8:33,20:25,4.6,TRUE
+712,"Lueilwitz, Thiel and Christiansen",Mexican,Cheap,Bed-Stuy,5:21,20:13,2.4,TRUE
+713,Reichert-Bergnaum,Middle Eastern,Expensive,Upper East Side,9:17,21:51,3.9,TRUE
+714,Crona-Hane,Mexican,Cheap,Bushwick,7:11,19:48,3,TRUE
+715,Stokes-Wyman,Mexican,Cheap,Bushwick,5:51,20:35,1.8,TRUE
+716,"Bernier, Hagenes and Harris",Chinese,Expensive,Bushwick,5:04,21:04,2,FALSE
+717,Swift and Sons,American,Medium,Bushwick,9:51,19:44,4.9,FALSE
+718,Bayer-Fisher,Indian,Cheap,Williamsburg,7:31,20:33,1.2,FALSE
+719,Grant LLC,Polish,Expensive,Harlem,7:22,22:37,1.2,FALSE
+720,"Wolf, Davis and Kuhlman",Middle Eastern,Cheap,Upper East Side,8:19,21:41,1.9,FALSE
+721,"McClure, Kulas and Schimmel",American,Cheap,Harlem,7:54,23:28,1.2,FALSE
+722,Kutch-Herzog,Italian,Cheap,Bed-Stuy,6:01,20:07,2.3,FALSE
+723,Stamm-Fisher,Thai,Expensive,Astoria,7:40,22:16,1.9,FALSE
+724,Schneider-Cummerata,Italian,Cheap,Greenwich Village,6:36,19:40,4.9,FALSE
+725,Windler-Schowalter,American,Medium,Long Island City,9:58,23:35,1.4,FALSE
+726,"Harvey, Olson and Mertz",American,Cheap,Astoria,5:30,20:41,4.7,TRUE
+727,"Barrows, Miller and Mitchell",Thai,Expensive,Bushwick,9:01,20:41,4,TRUE
+728,"Bode, Schimmel and Gutkowski",Mexican,Cheap,Williamsburg,6:47,21:45,2.4,TRUE
+729,Hessel-Reynolds,Chinese,Cheap,Harlem,5:32,19:49,2.8,TRUE
+730,Turner-McCullough,Italian,Expensive,Park Slope,7:38,22:05,3.5,FALSE
+731,Kris-Bauch,Indian,Expensive,Williamsburg,6:12,21:45,4.8,FALSE
+732,Ritchie-Marvin,Indian,Cheap,Astoria,7:48,19:38,3.3,TRUE
+733,Kilback Group,Japanese,Medium,Harlem,7:16,23:56,3.3,FALSE
+734,Homenick-Hermiston,Indian,Expensive,Harlem,7:16,20:17,1.2,TRUE
+735,"Barrows, Cremin and Monahan",Indian,Medium,Bushwick,9:37,23:30,1.6,TRUE
+736,Lehner LLC,Thai,Cheap,Astoria,6:05,23:41,3.5,FALSE
+737,Kirlin-Ward,Thai,Medium,Upper East Side,7:29,19:10,4.9,FALSE
+738,"Turner, Champlin and Rau",Mexican,Medium,Hell's Kitchen,7:17,23:12,1.2,TRUE
+739,Trantow Inc,American,Cheap,Astoria,8:20,20:17,5,FALSE
+740,Kutch-Gutkowski,Mexican,Cheap,Williamsburg,6:52,21:19,4.7,FALSE
+741,West-Rogahn,Mexican,Medium,Upper East Side,7:18,22:59,2.5,FALSE
+742,"Goldner, Kassulke and Bauch",Indian,Cheap,Hell's Kitchen,7:00,22:59,3.6,TRUE
+743,"Adams, Armstrong and Treutel",American,Expensive,Upper East Side,8:42,21:49,4.4,TRUE
+744,"Herzog, Rosenbaum and Kuhic",Italian,Medium,Astoria,9:15,21:05,1.4,TRUE
+745,"Moen, Rodriguez and Kub",Middle Eastern,Expensive,Upper East Side,9:52,23:43,1.3,FALSE
+746,"Dibbert, Nader and Armstrong",Thai,Cheap,Hell's Kitchen,8:46,19:43,2.7,TRUE
+747,Sanford and Sons,Japanese,Cheap,Harlem,7:11,19:59,2.9,TRUE
+748,Dicki-Jaskolski,Japanese,Expensive,Williamsburg,8:16,20:41,3.2,TRUE
+749,Rau-Hane,Chinese,Expensive,Bushwick,9:41,19:29,4.2,FALSE
+750,"Christiansen, Bednar and Monahan",Mexican,Cheap,Hell's Kitchen,5:28,23:47,3.9,TRUE
+751,"Reichel, Fritsch and Kemmer",Chinese,Medium,Williamsburg,8:20,23:50,4.4,TRUE
+752,Lakin-O'Reilly,Chinese,Medium,Astoria,9:53,21:17,2.6,FALSE
+753,Conroy Inc,Mexican,Expensive,Greenwich Village,7:59,20:37,4.1,TRUE
+754,Rath-Goodwin,Indian,Medium,Park Slope,7:34,22:02,4.6,FALSE
+755,Pfeffer-Pfannerstill,American,Medium,Bed-Stuy,7:41,20:15,1.4,FALSE
+756,Herman-Schuster,Indian,Cheap,Bed-Stuy,9:41,19:27,3.5,FALSE
+757,Emard-Senger,Middle Eastern,Cheap,Upper East Side,8:11,20:31,2.3,FALSE
+758,Bosco-Howell,Thai,Cheap,Bed-Stuy,9:27,23:53,2.3,TRUE
+759,Connelly-Wiegand,Mexican,Cheap,Park Slope,5:22,23:23,4.4,TRUE
+760,Denesik and Sons,Mexican,Cheap,Bed-Stuy,8:46,20:10,3.2,FALSE
+761,Fisher LLC,Thai,Medium,Astoria,6:27,21:17,2.5,TRUE
+762,Borer-Schneider,Italian,Medium,Astoria,8:01,19:35,1.1,FALSE
+763,Jerde LLC,Indian,Cheap,Hell's Kitchen,7:08,19:33,2.4,FALSE
+764,Schaden Group,Chinese,Cheap,Greenwich Village,7:32,23:19,3.2,FALSE
+765,"Stoltenberg, Jerde and Witting",Thai,Cheap,Bed-Stuy,6:36,22:09,1.4,FALSE
+766,Johns LLC,Chinese,Cheap,Park Slope,8:21,22:44,3.7,FALSE
+767,"Considine, Schmidt and Dach",Polish,Expensive,Bed-Stuy,9:54,19:45,3.7,FALSE
+768,Klocko and Sons,Middle Eastern,Expensive,Bed-Stuy,7:46,22:58,3,FALSE
+769,Morar Group,Italian,Expensive,Harlem,6:15,19:59,1.2,TRUE
+770,Conroy LLC,Chinese,Expensive,Bed-Stuy,7:52,22:01,4.4,TRUE
+771,Schimmel Inc,Polish,Expensive,Harlem,9:12,20:37,3.8,TRUE
+772,Orn-Hagenes,Italian,Cheap,Upper East Side,8:31,22:51,3.3,FALSE
+773,"Bergnaum, Schaden and Beier",Mexican,Cheap,Long Island City,7:59,22:09,4.7,TRUE
+774,Franecki-Langosh,Chinese,Cheap,Long Island City,7:48,21:33,1.9,FALSE
+775,King-Jakubowski,Indian,Medium,Upper East Side,5:41,21:34,3.5,TRUE
+776,Dickens LLC,Italian,Expensive,Astoria,7:13,22:17,4.4,TRUE
+777,Schimmel-Huels,Indian,Expensive,Bed-Stuy,6:54,20:28,4,FALSE
+778,"Bogisich, Crist and Zemlak",Thai,Medium,Greenwich Village,5:42,21:15,1.6,TRUE
+779,Watsica-Rempel,Chinese,Medium,Greenwich Village,6:22,19:39,2.6,FALSE
+780,Pfannerstill Group,Italian,Cheap,Bushwick,6:46,22:08,1.1,TRUE
+781,"Barrows, Parisian and Ankunding",Chinese,Cheap,Long Island City,6:55,22:42,1.9,FALSE
+782,Feil and Sons,Polish,Expensive,Park Slope,7:26,22:16,2.8,FALSE
+783,Abshire LLC,Thai,Cheap,Harlem,8:34,22:02,3.2,FALSE
+784,"Bernier, Kunde and Stoltenberg",Japanese,Cheap,Hell's Kitchen,7:19,20:35,3.8,TRUE
+785,Hudson-Carroll,Polish,Medium,Harlem,5:26,19:00,2.4,TRUE
+786,Fritsch Inc,Polish,Cheap,Long Island City,9:40,20:36,3.5,TRUE
+787,Murray-Lemke,Indian,Medium,Hell's Kitchen,6:42,21:21,4.7,TRUE
+788,"Rau, Walker and McDermott",Middle Eastern,Medium,Bushwick,7:10,19:36,4.8,TRUE
+789,"Lindgren, Lang and O'Keefe",Chinese,Medium,Bushwick,5:13,20:44,1.8,FALSE
+790,Hickle LLC,Italian,Cheap,Hell's Kitchen,6:57,20:40,1.2,FALSE
+791,Kuvalis-Volkman,Middle Eastern,Medium,Bed-Stuy,9:23,23:54,2.7,TRUE
+792,Kihn-Gorczany,Italian,Medium,Upper East Side,7:11,23:50,3.8,FALSE
+793,"Larson, Johnson and Muller",Japanese,Expensive,Park Slope,5:08,19:06,3.2,TRUE
+794,"Yost, Reynolds and Cummerata",Polish,Medium,Greenwich Village,8:46,21:06,4.1,FALSE
+795,Kilback-Auer,Polish,Expensive,Harlem,9:59,23:08,2.5,TRUE
+796,"Howell, Hansen and Yost",American,Medium,Bushwick,9:09,19:16,3.9,TRUE
+797,Pfannerstill-Marvin,Japanese,Expensive,Long Island City,5:34,21:07,3.3,FALSE
+798,Anderson-Schuster,Thai,Cheap,Bushwick,6:33,19:40,1.9,FALSE
+799,"Trantow, Windler and Altenwerth",Mexican,Cheap,Harlem,5:47,23:20,4.4,TRUE
+800,Altenwerth Inc,Middle Eastern,Cheap,Hell's Kitchen,5:31,23:17,2.7,FALSE
+801,Doyle-Strosin,Indian,Cheap,Long Island City,6:58,21:06,3,FALSE
+802,"Mosciski, Stoltenberg and Kassulke",Middle Eastern,Expensive,Astoria,5:11,22:14,2.1,TRUE
+803,Satterfield-Brown,Italian,Medium,Williamsburg,5:51,19:38,2.6,TRUE
+804,Hessel and Sons,Thai,Cheap,Williamsburg,8:41,22:12,1.4,TRUE
+805,Gutmann-Huel,Thai,Cheap,Bed-Stuy,8:46,19:11,4.5,TRUE
+806,"Bernier, Halvorson and Schoen",American,Cheap,Bushwick,6:06,22:04,1.9,TRUE
+807,Keeling Inc,Chinese,Medium,Bushwick,7:09,19:08,3.4,FALSE
+808,"Beahan, Hansen and Schinner",Chinese,Cheap,Williamsburg,6:59,23:52,2.6,FALSE
+809,Stroman-Mitchell,American,Medium,Harlem,5:28,21:25,3.6,FALSE
+810,"Lehner, Collins and Emmerich",Japanese,Medium,Hell's Kitchen,7:50,21:01,3.8,FALSE
+811,"Braun, Haag and Pouros",Mexican,Expensive,Harlem,8:59,21:20,4.3,FALSE
+812,Bashirian LLC,Middle Eastern,Expensive,Bushwick,8:45,23:44,3.6,FALSE
+813,Mann LLC,Mexican,Cheap,Park Slope,9:29,20:21,1.9,FALSE
+814,"Stroman, Dooley and Rath",Chinese,Cheap,Williamsburg,5:43,19:54,4.4,TRUE
+815,Littel and Sons,Italian,Cheap,Bushwick,7:41,22:51,4.5,TRUE
+816,Kling-Hilll,Mexican,Expensive,Long Island City,8:04,22:22,2.9,FALSE
+817,"Weber, Bechtelar and Ebert",Thai,Cheap,Hell's Kitchen,5:50,22:40,4.3,TRUE
+818,"Volkman, Jacobs and Ernser",Polish,Cheap,Williamsburg,5:44,21:35,1.5,FALSE
+819,"Heaney, Flatley and Daniel",Italian,Cheap,Greenwich Village,8:07,23:31,4.9,FALSE
+820,O'Conner LLC,American,Expensive,Astoria,7:01,21:29,3.6,TRUE
+821,"Bernhard, Heaney and Mosciski",Thai,Expensive,Bushwick,6:25,21:46,1.8,FALSE
+822,"Welch, Rolfson and Padberg",Thai,Cheap,Greenwich Village,5:08,21:39,3.8,FALSE
+823,"Langosh, Armstrong and Ruecker",American,Medium,Hell's Kitchen,7:39,19:17,2.7,TRUE
+824,Mueller LLC,Chinese,Expensive,Astoria,7:26,20:50,4.3,FALSE
+825,Ernser-Boyle,Chinese,Medium,Williamsburg,7:15,21:56,2.6,TRUE
+826,Sipes Group,Middle Eastern,Expensive,Long Island City,9:35,23:17,3.8,TRUE
+827,Schneider Inc,Polish,Medium,Bushwick,8:17,20:51,1.6,TRUE
+828,"Kuhlman, Swaniawski and Kub",Japanese,Expensive,Astoria,5:47,21:57,1.3,TRUE
+829,Willms Inc,Chinese,Medium,Hell's Kitchen,9:20,23:44,4.4,TRUE
+830,"Douglas, Langosh and O'Kon",Mexican,Expensive,Hell's Kitchen,9:58,22:23,4.9,FALSE
+831,Marquardt Inc,Italian,Expensive,Bed-Stuy,9:54,23:55,3.8,FALSE
+832,Harris-Runte,Middle Eastern,Expensive,Hell's Kitchen,9:48,20:09,3.9,FALSE
+833,"Runolfsson, Donnelly and Grant",American,Medium,Bed-Stuy,5:39,19:37,2.8,FALSE
+834,Klocko LLC,Indian,Cheap,Hell's Kitchen,6:07,20:32,2.4,TRUE
+835,Schinner Inc,Mexican,Medium,Upper East Side,8:00,19:45,2.4,FALSE
+836,Heathcote and Sons,Italian,Medium,Williamsburg,7:39,21:52,2.2,FALSE
+837,Buckridge-Hudson,Middle Eastern,Cheap,Williamsburg,6:26,19:14,3.2,FALSE
+838,"Wehner, Gleason and Ziemann",Japanese,Medium,Park Slope,6:00,21:53,1.4,TRUE
+839,Jacobi and Sons,American,Medium,Upper East Side,7:28,22:22,4.3,FALSE
+840,Huel Group,Italian,Cheap,Greenwich Village,9:14,22:18,1.5,FALSE
+841,Barrows Group,American,Cheap,Harlem,5:07,21:01,1.7,TRUE
+842,Bartoletti-Heaney,Indian,Medium,Greenwich Village,9:17,21:26,4.1,FALSE
+843,Kemmer Inc,Mexican,Medium,Hell's Kitchen,8:14,21:14,1.6,TRUE
+844,Lemke-Runolfsdottir,Chinese,Medium,Astoria,8:02,23:35,1.4,FALSE
+845,"Predovic, Crona and Ruecker",Thai,Expensive,Park Slope,5:19,22:04,3.9,FALSE
+846,Adams-Grady,Chinese,Medium,Williamsburg,6:46,19:59,1,TRUE
+847,Zemlak and Sons,American,Medium,Greenwich Village,6:33,21:43,3.7,FALSE
+848,"Hane, Labadie and Reichel",Italian,Cheap,Astoria,7:01,21:38,3.7,FALSE
+849,Collins-Bechtelar,American,Cheap,Hell's Kitchen,7:40,21:46,2.7,FALSE
+850,Beahan-Lehner,Indian,Medium,Williamsburg,5:18,21:21,2.6,FALSE
+851,Osinski Group,Mexican,Cheap,Astoria,7:54,22:53,3.9,FALSE
+852,Kirlin-Kohler,Middle Eastern,Medium,Greenwich Village,8:00,23:01,2.2,TRUE
+853,O'Conner-Gorczany,Chinese,Medium,Park Slope,7:09,23:39,2.6,FALSE
+854,"Baumbach, Wiegand and Weber",Thai,Cheap,Hell's Kitchen,9:17,21:47,3.4,FALSE
+855,"Schaden, Daugherty and Crist",American,Medium,Greenwich Village,9:11,23:25,1.4,TRUE
+856,Denesik LLC,Middle Eastern,Cheap,Astoria,9:30,21:25,2.8,FALSE
+857,Lind-Russel,Japanese,Cheap,Greenwich Village,6:30,19:09,2.9,TRUE
+858,"Funk, Kerluke and Jenkins",American,Cheap,Bed-Stuy,7:39,19:41,2.1,FALSE
+859,D'Amore-Hahn,Italian,Medium,Williamsburg,9:04,20:12,3.5,TRUE
+860,Zulauf Inc,Middle Eastern,Expensive,Greenwich Village,9:35,20:24,3.8,FALSE
+861,"Zboncak, Corkery and Kunde",Polish,Medium,Upper East Side,9:14,20:25,4.1,FALSE
+862,Reichert LLC,Italian,Medium,Astoria,5:13,20:20,4.1,TRUE
+863,"Marquardt, Dicki and Wyman",Middle Eastern,Cheap,Williamsburg,9:02,20:08,1.9,FALSE
+864,"Crona, Hauck and Abernathy",Indian,Cheap,Astoria,6:24,20:02,1.8,TRUE
+865,McDermott LLC,Indian,Expensive,Hell's Kitchen,7:01,19:03,4.6,FALSE
+866,"Mante, Carroll and Ullrich",Polish,Expensive,Williamsburg,5:02,23:53,3.7,FALSE
+867,Quitzon Inc,Italian,Medium,Hell's Kitchen,9:38,20:56,1.7,TRUE
+868,Collier-Jaskolski,Mexican,Cheap,Greenwich Village,6:26,21:01,3.7,TRUE
+869,Hahn Group,Thai,Expensive,Park Slope,6:21,21:02,2.4,TRUE
+870,Marquardt LLC,Middle Eastern,Cheap,Williamsburg,6:44,23:38,4.7,TRUE
+871,Lebsack-Olson,Chinese,Expensive,Greenwich Village,8:24,22:11,1.1,TRUE
+872,"Cole, Cartwright and Schulist",Polish,Expensive,Astoria,7:26,19:35,4.9,TRUE
+873,Sanford-Waters,Thai,Cheap,Harlem,8:12,20:16,1.4,FALSE
+874,Gibson-Pfeffer,Mexican,Medium,Bushwick,7:55,20:22,2.9,FALSE
+875,"Blick, Bergstrom and Lang",Italian,Expensive,Park Slope,6:19,23:01,4.9,FALSE
+876,Kling-Strosin,Middle Eastern,Expensive,Astoria,6:08,22:18,3,TRUE
+877,"Yost, Feil and Runolfsson",Indian,Medium,Hell's Kitchen,8:06,21:12,1.4,FALSE
+878,"Hodkiewicz, Roob and Larson",Japanese,Cheap,Astoria,9:16,23:40,1.6,TRUE
+879,"Champlin, Pollich and Lueilwitz",Indian,Medium,Park Slope,6:52,19:33,3.7,TRUE
+880,"Will, Stark and Jones",Chinese,Medium,Williamsburg,9:58,22:42,1.6,TRUE
+881,Mayert-Schuster,Chinese,Cheap,Bushwick,9:48,23:45,2.7,TRUE
+882,West-Mosciski,Mexican,Medium,Upper East Side,6:54,23:20,3.5,TRUE
+883,"Purdy, Bosco and Bruen",Thai,Expensive,Long Island City,7:21,20:17,2.1,TRUE
+884,"Keeling, Rogahn and Dare",Polish,Expensive,Upper East Side,5:19,23:14,1.6,TRUE
+885,Quigley LLC,Mexican,Expensive,Park Slope,9:53,21:21,3.5,FALSE
+886,Kulas-Kovacek,Thai,Medium,Park Slope,9:00,23:47,3.8,FALSE
+887,Beier and Sons,American,Medium,Astoria,9:13,21:12,4.9,TRUE
+888,Green and Sons,Italian,Cheap,Park Slope,6:40,20:54,3.3,FALSE
+889,Grady-Cassin,Polish,Cheap,Bushwick,8:44,22:23,2.1,FALSE
+890,"Ortiz, Farrell and Littel",Polish,Expensive,Greenwich Village,8:59,23:51,5,TRUE
+891,Beier Inc,Indian,Medium,Astoria,8:32,21:41,4.1,TRUE
+892,"White, Gutmann and Ledner",Italian,Medium,Williamsburg,9:26,19:11,1.7,TRUE
+893,"Weissnat, Schneider and Kemmer",Japanese,Medium,Williamsburg,9:18,21:27,3.2,FALSE
+894,Schroeder-Murray,Indian,Cheap,Bushwick,7:56,21:33,1.3,TRUE
+895,Baumbach Inc,Mexican,Expensive,Bed-Stuy,8:04,21:50,4.4,TRUE
+896,Kirlin-Runolfsdottir,Chinese,Expensive,Williamsburg,7:12,23:27,3.9,TRUE
+897,Gleichner LLC,Italian,Cheap,Bed-Stuy,7:09,19:53,3.3,TRUE
+898,Hettinger-Kassulke,Mexican,Expensive,Bed-Stuy,7:31,19:18,4.8,FALSE
+899,"Bruen, Runolfsdottir and Gutmann",Japanese,Expensive,Bushwick,8:58,23:46,1.8,FALSE
+900,"Zboncak, Mosciski and Will",Mexican,Expensive,Harlem,9:06,23:46,3.6,FALSE
+901,Auer-Rau,Polish,Expensive,Long Island City,9:07,19:37,3.7,FALSE
+902,Yost and Sons,Indian,Expensive,Park Slope,9:00,22:26,1.7,FALSE
+903,West Group,American,Expensive,Astoria,6:41,20:54,1.7,TRUE
+904,"Deckow, Schroeder and Bergstrom",Japanese,Medium,Williamsburg,6:37,19:38,1.4,FALSE
+905,Wisoky LLC,Polish,Cheap,Williamsburg,6:33,23:52,1.3,TRUE
+906,Cronin-Huels,Polish,Expensive,Astoria,6:59,23:10,3.1,TRUE
+907,Kris and Sons,Middle Eastern,Medium,Williamsburg,6:01,19:21,2.3,FALSE
+908,Nikolaus-Sipes,Japanese,Cheap,Upper East Side,8:59,23:56,2.8,FALSE
+909,"Nolan, Schmitt and Hagenes",American,Cheap,Bushwick,8:40,20:51,2.8,TRUE
+910,Maggio Inc,Thai,Expensive,Greenwich Village,8:55,23:48,1.2,TRUE
+911,Collier-Little,Japanese,Medium,Williamsburg,8:28,23:31,1.7,TRUE
+912,Hirthe Inc,Japanese,Medium,Park Slope,9:45,19:12,4.2,TRUE
+913,Trantow Inc,Thai,Expensive,Greenwich Village,8:16,23:32,4.7,TRUE
+914,Osinski-Emmerich,American,Expensive,Harlem,5:04,22:33,3.9,TRUE
+915,Runolfsdottir LLC,Thai,Expensive,Bed-Stuy,5:57,19:01,2.1,TRUE
+916,"Gutkowski, Daugherty and Fritsch",Mexican,Medium,Greenwich Village,6:01,20:25,4.3,TRUE
+917,Jenkins-Kemmer,Japanese,Expensive,Astoria,9:11,23:41,3.8,FALSE
+918,Welch-Rowe,Indian,Expensive,Williamsburg,8:43,21:30,1.5,FALSE
+919,Borer LLC,Indian,Expensive,Park Slope,6:35,20:00,4.4,TRUE
+920,Bruen Group,Indian,Cheap,Bushwick,5:06,21:10,1,TRUE
+921,Schumm and Sons,American,Medium,Williamsburg,7:06,23:22,1.8,FALSE
+922,"Kihn, Pollich and Jakubowski",Indian,Cheap,Bed-Stuy,6:12,19:25,2.9,FALSE
+923,"King, Terry and Legros",Polish,Cheap,Astoria,7:42,22:57,3.8,FALSE
+924,Gibson LLC,Thai,Cheap,Bushwick,9:50,22:16,1,TRUE
+925,Beer-Feest,Polish,Expensive,Upper East Side,5:14,21:39,2.7,FALSE
+926,"Hegmann, Labadie and Stracke",Polish,Medium,Long Island City,8:51,22:57,4.1,TRUE
+927,Cronin-Kirlin,Mexican,Expensive,Bed-Stuy,9:26,21:46,3.3,TRUE
+928,"Lesch, Schulist and Parker",Italian,Cheap,Long Island City,8:48,21:03,1.5,TRUE
+929,Stehr Group,Polish,Expensive,Hell's Kitchen,6:45,19:07,1.8,FALSE
+930,Legros-Bahringer,Chinese,Cheap,Greenwich Village,8:52,19:58,4.5,TRUE
+931,"Altenwerth, Ondricka and Bogisich",American,Medium,Bushwick,7:15,23:18,3.6,TRUE
+932,Jones-Hand,Mexican,Expensive,Upper East Side,9:18,19:51,2.3,FALSE
+933,Schneider-Tillman,Middle Eastern,Medium,Long Island City,5:32,21:06,1.4,TRUE
+934,Mraz and Sons,Chinese,Expensive,Hell's Kitchen,8:46,19:10,4.3,TRUE
+935,Armstrong-O'Hara,Indian,Medium,Harlem,8:14,20:36,1.9,FALSE
+936,Marks-Ruecker,Mexican,Cheap,Park Slope,9:07,23:47,3,FALSE
+937,Hoeger LLC,Polish,Expensive,Greenwich Village,7:17,22:11,2.4,FALSE
+938,Pacocha Inc,Polish,Medium,Bushwick,9:56,20:42,1.7,TRUE
+939,"Rosenbaum, Stiedemann and Marvin",American,Cheap,Hell's Kitchen,8:21,20:22,3.4,FALSE
+940,Wuckert Inc,Chinese,Medium,Hell's Kitchen,9:21,21:07,2.1,TRUE
+941,Davis-Casper,Thai,Medium,Bushwick,6:23,20:37,3.5,TRUE
+942,Aufderhar-Rohan,Mexican,Medium,Greenwich Village,5:15,19:00,4.9,TRUE
+943,"O'Keefe, Ziemann and Abbott",American,Cheap,Williamsburg,6:29,23:34,4.6,FALSE
+944,"Stanton, Brakus and Zulauf",American,Medium,Astoria,6:05,22:59,1.1,FALSE
+945,"Herzog, Weimann and Padberg",Mexican,Medium,Astoria,5:58,21:56,3,TRUE
+946,"Spencer, Von and Halvorson",American,Medium,Park Slope,9:50,23:23,1.3,FALSE
+947,Baumbach and Sons,Mexican,Cheap,Astoria,6:45,22:05,4.6,FALSE
+948,"Reinger, Hand and Donnelly",Chinese,Cheap,Harlem,8:13,19:42,2.4,TRUE
+949,Schmeler and Sons,Italian,Medium,Greenwich Village,8:25,21:06,4.7,FALSE
+950,"Mills, Medhurst and Cummerata",Indian,Medium,Bed-Stuy,7:14,20:23,3.1,FALSE
+951,Hintz Inc,Japanese,Cheap,Upper East Side,9:41,19:49,3.9,TRUE
+952,Bosco-Baumbach,Chinese,Expensive,Park Slope,7:44,19:17,1.7,TRUE
+953,"Gislason, Bauch and Bogan",Thai,Cheap,Williamsburg,8:21,23:55,2.8,FALSE
+954,"Corkery, Grady and Schamberger",Mexican,Cheap,Long Island City,8:39,21:40,2.4,FALSE
+955,Berge LLC,Italian,Medium,Greenwich Village,9:50,23:47,2.9,TRUE
+956,"Kuphal, Johns and Reynolds",Middle Eastern,Medium,Astoria,9:21,21:37,3.6,FALSE
+957,O'Keefe-Rippin,Thai,Expensive,Upper East Side,7:39,21:53,1.3,FALSE
+958,"Collier, Bruen and Shields",American,Expensive,Harlem,8:08,19:26,1.9,TRUE
+959,"Hyatt, Hermiston and Glover",Italian,Expensive,Harlem,6:18,23:28,3.9,TRUE
+960,"Jacobs, Heidenreich and Walker",Polish,Expensive,Harlem,8:50,19:21,2.2,FALSE
+961,Littel-Funk,Thai,Expensive,Bed-Stuy,7:57,23:12,4.6,FALSE
+962,"Keeling, Kulas and Braun",Middle Eastern,Expensive,Bushwick,8:59,20:48,1.6,FALSE
+963,"Schiller, Hackett and Fisher",Italian,Expensive,Greenwich Village,8:25,23:29,4.6,FALSE
+964,Rohan-Marvin,Polish,Cheap,Bushwick,9:46,19:20,3.9,TRUE
+965,Cassin and Sons,Chinese,Cheap,Park Slope,5:07,20:45,1.1,FALSE
+966,Borer Group,Italian,Medium,Harlem,9:25,19:09,1.5,TRUE
+967,Spinka-Grant,American,Medium,Long Island City,9:45,22:00,5,FALSE
+968,Fahey Inc,American,Cheap,Upper East Side,7:39,23:06,2.4,TRUE
+969,Rolfson LLC,Indian,Cheap,Bed-Stuy,8:24,19:15,2.9,TRUE
+970,"Stiedemann, Hegmann and Torp",Middle Eastern,Cheap,Astoria,9:29,20:09,1.8,TRUE
+971,Schiller-Emard,Thai,Medium,Bushwick,8:56,21:47,4,TRUE
+972,"Marvin, Pollich and King",Japanese,Expensive,Bushwick,5:41,19:20,4.2,FALSE
+973,Mills-Daniel,Italian,Medium,Greenwich Village,7:07,22:48,1.8,TRUE
+974,Kling-Parker,Chinese,Cheap,Upper East Side,8:50,22:18,2.1,TRUE
+975,DuBuque-Block,American,Medium,Williamsburg,9:34,22:35,1.1,TRUE
+976,Gusikowski LLC,Middle Eastern,Expensive,Greenwich Village,7:33,21:00,1.8,TRUE
+977,O'Kon-King,Thai,Expensive,Astoria,7:42,22:20,1.1,TRUE
+978,Kub-Williamson,Polish,Cheap,Hell's Kitchen,8:01,21:09,1.7,FALSE
+979,"Hudson, Emmerich and Casper",Mexican,Medium,Upper East Side,5:40,23:12,2.4,TRUE
+980,Ledner-Dietrich,American,Cheap,Long Island City,5:54,23:01,4.5,TRUE
+981,Hintz-Langosh,Thai,Medium,Harlem,8:11,20:58,3.3,TRUE
+982,"Bahringer, Bauch and Osinski",Middle Eastern,Medium,Astoria,8:59,20:02,1.8,FALSE
+983,Klocko-Glover,Italian,Medium,Upper East Side,6:46,20:37,1.9,FALSE
+984,Heathcote LLC,Indian,Cheap,Upper East Side,7:43,19:01,1.3,FALSE
+985,"Graham, Murphy and Pfannerstill",Polish,Expensive,Greenwich Village,7:53,23:15,1.6,FALSE
+986,Graham-Kemmer,American,Expensive,Bed-Stuy,8:31,23:12,1.8,FALSE
+987,"Fisher, Padberg and Klein",Italian,Medium,Williamsburg,6:09,21:23,2.4,TRUE
+988,Stoltenberg Group,Polish,Medium,Park Slope,7:47,23:16,1.7,FALSE
+989,Wisozk Group,Polish,Expensive,Harlem,9:49,20:01,3.4,FALSE
+990,Ankunding and Sons,American,Expensive,Upper East Side,7:54,23:54,4.4,FALSE
+991,Balistreri Group,American,Medium,Astoria,6:33,21:30,2.4,TRUE
+992,Kuhlman Group,Chinese,Expensive,Astoria,7:52,20:54,1.8,FALSE
+993,Brakus-Gislason,Middle Eastern,Expensive,Upper East Side,9:37,22:42,3.4,TRUE
+994,"Armstrong, MacGyver and Windler",Chinese,Medium,Harlem,6:35,19:36,4.1,TRUE
+995,Dooley and Sons,American,Expensive,Long Island City,5:44,22:18,2.6,FALSE
+996,"Borer, Quitzon and Spinka",Japanese,Cheap,Park Slope,8:14,23:38,3.8,FALSE
+997,"Padberg, Rice and Hyatt",American,Cheap,Park Slope,5:45,20:30,2.5,FALSE
+998,Dicki-Reichert,Middle Eastern,Expensive,Long Island City,7:00,19:44,1.7,FALSE
+999,Wolff Group,Mexican,Cheap,Bushwick,7:19,22:17,2,FALSE
+1000,Considine-Kuphal,Chinese,Cheap,Upper East Side,8:55,23:36,3.4,FALSE
